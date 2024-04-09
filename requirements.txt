@@ -1,0 +1,5 @@
+Jupyter
+IPython
+torch
+ffmpeg
+openai-whisper
