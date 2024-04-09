@@ -1,5 +1,3 @@
-Sure, here's a more detailed guide for a README.md file:
-
 # Whisper Installation and Usage Guide
 
 This guide will walk you through the process of installing and using Whisper, a Python-based application.
