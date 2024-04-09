@@ -48,10 +48,5 @@ whisper audio_file_name.filetype
 
 Replace `audio_file_name.filetype` with the name and filetype of your audio file.
 
-## Contact
 
-If you want to contact me, you can reach me at `your_email@domain.com`.
 
-## License
-
-This project uses the following license: `[license_name](link_to_license)`.
