@@ -1,0 +1,4703 @@
+254
+00:01:27,256 --> 00:01:27,716
+[SPEAKER_01]: <u>Hello,</u> Children's Engineering Workshops.
+
+255
+00:01:27,716 --> 00:01:27,796
+[SPEAKER_01]: Hello, Children's Engineering Workshops.
+
+256
+00:01:27,796 --> 00:01:28,256
+[SPEAKER_01]: Hello, <u>Children's</u> Engineering Workshops.
+
+257
+00:01:28,256 --> 00:01:28,316
+[SPEAKER_01]: Hello, Children's Engineering Workshops.
+
+258
+00:01:28,316 --> 00:01:28,857
+[SPEAKER_01]: Hello, Children's <u>Engineering</u> Workshops.
+
+259
+00:01:28,857 --> 00:01:28,897
+[SPEAKER_01]: Hello, Children's Engineering Workshops.
+
+260
+00:01:28,897 --> 00:01:29,517
+[SPEAKER_01]: Hello, Children's Engineering <u>Workshops.</u>
+
+261
+00:01:30,097 --> 00:01:30,197
+[SPEAKER_02]: <u>Oh,</u> hello.
+
+262
+00:01:30,197 --> 00:01:30,257
+[SPEAKER_02]: Oh, hello.
+
+263
+00:01:30,257 --> 00:01:30,657
+[SPEAKER_02]: Oh, <u>hello.</u>
+
+264
+00:01:30,677 --> 00:01:30,697
+[SPEAKER_02]: <u>I</u> wanted some information about the workshops in the school holidays.
+
+265
+00:01:30,697 --> 00:01:31,577
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+266
+00:01:31,577 --> 00:01:31,977
+[SPEAKER_02]: I <u>wanted</u> some information about the workshops in the school holidays.
+
+267
+00:01:31,977 --> 00:01:32,078
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+268
+00:01:32,078 --> 00:01:32,258
+[SPEAKER_02]: I wanted <u>some</u> information about the workshops in the school holidays.
+
+269
+00:01:32,258 --> 00:01:32,298
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+270
+00:01:32,298 --> 00:01:33,018
+[SPEAKER_02]: I wanted some <u>information</u> about the workshops in the school holidays.
+
+271
+00:01:33,018 --> 00:01:33,078
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+272
+00:01:33,078 --> 00:01:33,298
+[SPEAKER_02]: I wanted some information <u>about</u> the workshops in the school holidays.
+
+273
+00:01:33,298 --> 00:01:33,318
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+274
+00:01:33,318 --> 00:01:33,398
+[SPEAKER_02]: I wanted some information about <u>the</u> workshops in the school holidays.
+
+275
+00:01:33,398 --> 00:01:33,478
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+276
+00:01:33,478 --> 00:01:34,178
+[SPEAKER_02]: I wanted some information about the <u>workshops</u> in the school holidays.
+
+277
+00:01:34,178 --> 00:01:34,278
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+278
+00:01:34,278 --> 00:01:34,358
+[SPEAKER_02]: I wanted some information about the workshops <u>in</u> the school holidays.
+
+279
+00:01:34,358 --> 00:01:34,378
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+280
+00:01:34,378 --> 00:01:34,458
+[SPEAKER_02]: I wanted some information about the workshops in <u>the</u> school holidays.
+
+281
+00:01:34,458 --> 00:01:34,498
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+282
+00:01:34,498 --> 00:01:34,738
+[SPEAKER_02]: I wanted some information about the workshops in the <u>school</u> holidays.
+
+283
+00:01:34,738 --> 00:01:34,778
+[SPEAKER_02]: I wanted some information about the workshops in the school holidays.
+
+284
+00:01:34,778 --> 00:01:35,359
+[SPEAKER_02]: I wanted some information about the workshops in the school <u>holidays.</u>
+
+285
+00:01:35,839 --> 00:01:36,239
+[SPEAKER_01]: <u>Sure.</u>
+
+286
+00:01:36,819 --> 00:01:36,879
+[SPEAKER_02]: <u>I</u> have two daughters who are interested.
+
+287
+00:01:36,879 --> 00:01:36,919
+[SPEAKER_02]: I have two daughters who are interested.
+
+288
+00:01:36,919 --> 00:01:37,039
+[SPEAKER_02]: I <u>have</u> two daughters who are interested.
+
+289
+00:01:37,039 --> 00:01:37,119
+[SPEAKER_02]: I have two daughters who are interested.
+
+290
+00:01:37,119 --> 00:01:37,319
+[SPEAKER_02]: I have <u>two</u> daughters who are interested.
+
+291
+00:01:37,319 --> 00:01:37,419
+[SPEAKER_02]: I have two daughters who are interested.
+
+292
+00:01:37,419 --> 00:01:37,959
+[SPEAKER_02]: I have two <u>daughters</u> who are interested.
+
+293
+00:01:37,959 --> 00:01:38,019
+[SPEAKER_02]: I have two daughters who are interested.
+
+294
+00:01:38,019 --> 00:01:38,139
+[SPEAKER_02]: I have two daughters <u>who</u> are interested.
+
+295
+00:01:38,139 --> 00:01:38,199
+[SPEAKER_02]: I have two daughters who are interested.
+
+296
+00:01:38,199 --> 00:01:38,299
+[SPEAKER_02]: I have two daughters who <u>are</u> interested.
+
+297
+00:01:38,299 --> 00:01:38,339
+[SPEAKER_02]: I have two daughters who are interested.
+
+298
+00:01:38,339 --> 00:01:38,840
+[SPEAKER_02]: I have two daughters who are <u>interested.</u>
+
+299
+00:01:38,860 --> 00:01:39,740
+[SPEAKER_02]: <u>The</u> younger one's Lydia.
+
+300
+00:01:39,740 --> 00:01:39,800
+[SPEAKER_02]: The younger one's Lydia.
+
+301
+00:01:39,800 --> 00:01:40,140
+[SPEAKER_02]: The <u>younger</u> one's Lydia.
+
+302
+00:01:40,140 --> 00:01:40,240
+[SPEAKER_02]: The younger one's Lydia.
+
+303
+00:01:40,240 --> 00:01:40,440
+[SPEAKER_02]: The younger <u>one's</u> Lydia.
+
+304
+00:01:40,440 --> 00:01:40,540
+[SPEAKER_02]: The younger one's Lydia.
+
+305
+00:01:40,540 --> 00:01:40,960
+[SPEAKER_02]: The younger one's <u>Lydia.</u>
+
+306
+00:01:41,180 --> 00:01:41,420
+[SPEAKER_02]: <u>She's</u> four.
+
+307
+00:01:41,420 --> 00:01:41,580
+[SPEAKER_02]: She's four.
+
+308
+00:01:41,580 --> 00:01:42,021
+[SPEAKER_02]: She's <u>four.</u>
+
+309
+00:01:42,481 --> 00:01:42,561
+[SPEAKER_02]: <u>Do</u> you take children as young as that?
+
+310
+00:01:42,561 --> 00:01:42,601
+[SPEAKER_02]: Do you take children as young as that?
+
+311
+00:01:42,601 --> 00:01:42,721
+[SPEAKER_02]: Do <u>you</u> take children as young as that?
+
+312
+00:01:42,721 --> 00:01:42,761
+[SPEAKER_02]: Do you take children as young as that?
+
+313
+00:01:42,761 --> 00:01:42,981
+[SPEAKER_02]: Do you <u>take</u> children as young as that?
+
+314
+00:01:42,981 --> 00:01:43,081
+[SPEAKER_02]: Do you take children as young as that?
+
+315
+00:01:43,081 --> 00:01:43,461
+[SPEAKER_02]: Do you take <u>children</u> as young as that?
+
+316
+00:01:43,461 --> 00:01:43,501
+[SPEAKER_02]: Do you take children as young as that?
+
+317
+00:01:43,501 --> 00:01:43,601
+[SPEAKER_02]: Do you take children <u>as</u> young as that?
+
+318
+00:01:43,601 --> 00:01:43,661
+[SPEAKER_02]: Do you take children as young as that?
+
+319
+00:01:43,661 --> 00:01:43,861
+[SPEAKER_02]: Do you take children as <u>young</u> as that?
+
+320
+00:01:43,861 --> 00:01:43,921
+[SPEAKER_02]: Do you take children as young as that?
+
+321
+00:01:43,921 --> 00:01:44,001
+[SPEAKER_02]: Do you take children as young <u>as</u> that?
+
+322
+00:01:44,001 --> 00:01:44,041
+[SPEAKER_02]: Do you take children as young as that?
+
+323
+00:01:44,041 --> 00:01:44,321
+[SPEAKER_02]: Do you take children as young as <u>that?</u>
+
+324
+00:01:44,701 --> 00:01:45,102
+[SPEAKER_01]: <u>Yes.</u>
+
+325
+00:01:45,762 --> 00:01:46,022
+[SPEAKER_01]: <u>Our</u> Tiny Engineers Workshop is for four to five-year-olds.
+
+326
+00:01:46,022 --> 00:01:46,182
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to five-year-olds.
+
+327
+00:01:46,182 --> 00:01:46,642
+[SPEAKER_01]: Our <u>Tiny</u> Engineers Workshop is for four to five-year-olds.
+
+328
+00:01:46,642 --> 00:01:46,742
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to five-year-olds.
+
+329
+00:01:46,742 --> 00:01:47,262
+[SPEAKER_01]: Our Tiny <u>Engineers</u> Workshop is for four to five-year-olds.
+
+330
+00:01:47,262 --> 00:01:47,302
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to five-year-olds.
+
+331
+00:01:47,302 --> 00:01:47,962
+[SPEAKER_01]: Our Tiny Engineers <u>Workshop</u> is for four to five-year-olds.
+
+332
+00:01:47,962 --> 00:01:48,203
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to five-year-olds.
+
+333
+00:01:48,203 --> 00:01:48,383
+[SPEAKER_01]: Our Tiny Engineers Workshop <u>is</u> for four to five-year-olds.
+
+334
+00:01:48,383 --> 00:01:48,503
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to five-year-olds.
+
+335
+00:01:48,503 --> 00:01:48,703
+[SPEAKER_01]: Our Tiny Engineers Workshop is <u>for</u> four to five-year-olds.
+
+336
+00:01:48,703 --> 00:01:48,803
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to five-year-olds.
+
+337
+00:01:48,803 --> 00:01:49,103
+[SPEAKER_01]: Our Tiny Engineers Workshop is for <u>four</u> to five-year-olds.
+
+338
+00:01:49,103 --> 00:01:49,143
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to five-year-olds.
+
+339
+00:01:49,143 --> 00:01:49,263
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four <u>to</u> five-year-olds.
+
+340
+00:01:49,263 --> 00:01:49,323
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to five-year-olds.
+
+341
+00:01:49,323 --> 00:01:50,163
+[SPEAKER_01]: Our Tiny Engineers Workshop is for four to <u>five-year-olds.</u>
+
+342
+00:01:50,563 --> 00:01:50,743
+[SPEAKER_02]: <u>What</u> sorts of activities do they do?
+
+343
+00:01:50,743 --> 00:01:50,903
+[SPEAKER_02]: What sorts of activities do they do?
+
+344
+00:01:50,903 --> 00:01:51,284
+[SPEAKER_02]: What <u>sorts</u> of activities do they do?
+
+345
+00:01:51,284 --> 00:01:51,344
+[SPEAKER_02]: What sorts of activities do they do?
+
+346
+00:01:51,344 --> 00:01:51,404
+[SPEAKER_02]: What sorts <u>of</u> activities do they do?
+
+347
+00:01:51,404 --> 00:01:51,484
+[SPEAKER_02]: What sorts of activities do they do?
+
+348
+00:01:51,484 --> 00:01:52,004
+[SPEAKER_02]: What sorts of <u>activities</u> do they do?
+
+349
+00:01:52,004 --> 00:01:52,044
+[SPEAKER_02]: What sorts of activities do they do?
+
+350
+00:01:52,044 --> 00:01:52,164
+[SPEAKER_02]: What sorts of activities <u>do</u> they do?
+
+351
+00:01:52,164 --> 00:01:52,184
+[SPEAKER_02]: What sorts of activities do they do?
+
+352
+00:01:52,184 --> 00:01:52,324
+[SPEAKER_02]: What sorts of activities do <u>they</u> do?
+
+353
+00:01:52,324 --> 00:01:52,364
+[SPEAKER_02]: What sorts of activities do they do?
+
+354
+00:01:52,364 --> 00:01:52,484
+[SPEAKER_02]: What sorts of activities do they <u>do?</u>
+
+355
+00:01:53,118 --> 00:01:53,298
+[SPEAKER_01]: <u>all</u> sorts.
+
+356
+00:01:53,298 --> 00:01:53,378
+[SPEAKER_01]: all sorts.
+
+357
+00:01:53,378 --> 00:01:53,819
+[SPEAKER_01]: all <u>sorts.</u>
+
+358
+00:01:54,379 --> 00:01:54,519
+[SPEAKER_01]: <u>For</u> example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+359
+00:01:54,519 --> 00:01:54,599
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+360
+00:01:54,599 --> 00:01:55,080
+[SPEAKER_01]: For <u>example,</u> they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+361
+00:01:55,080 --> 00:01:55,460
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+362
+00:01:55,460 --> 00:01:55,620
+[SPEAKER_01]: For example, <u>they</u> work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+363
+00:01:55,620 --> 00:01:55,660
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+364
+00:01:55,660 --> 00:01:55,920
+[SPEAKER_01]: For example, they <u>work</u> together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+365
+00:01:55,920 --> 00:01:55,961
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+366
+00:01:55,961 --> 00:01:56,421
+[SPEAKER_01]: For example, they work <u>together</u> to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+367
+00:01:56,421 --> 00:01:56,481
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+368
+00:01:56,481 --> 00:01:56,601
+[SPEAKER_01]: For example, they work together <u>to</u> design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+369
+00:01:56,601 --> 00:01:56,641
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+370
+00:01:56,641 --> 00:01:57,101
+[SPEAKER_01]: For example, they work together to <u>design</u> a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+371
+00:01:57,101 --> 00:01:57,162
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+372
+00:01:57,162 --> 00:01:57,182
+[SPEAKER_01]: For example, they work together to design <u>a</u> special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+373
+00:01:57,182 --> 00:01:57,242
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+374
+00:01:57,242 --> 00:01:57,622
+[SPEAKER_01]: For example, they work together to design a <u>special</u> cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+375
+00:01:57,622 --> 00:01:57,742
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+376
+00:01:57,742 --> 00:01:58,202
+[SPEAKER_01]: For example, they work together to design a special <u>cover</u> that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+377
+00:01:58,202 --> 00:01:58,323
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+378
+00:01:58,323 --> 00:01:58,483
+[SPEAKER_01]: For example, they work together to design a special cover <u>that</u> goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+379
+00:01:58,483 --> 00:01:58,523
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+380
+00:01:58,523 --> 00:01:58,803
+[SPEAKER_01]: For example, they work together to design a special cover that <u>goes</u> round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+381
+00:01:58,803 --> 00:01:58,903
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+382
+00:01:58,903 --> 00:01:59,243
+[SPEAKER_01]: For example, they work together to design a special cover that goes <u>round</u> an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+383
+00:01:59,243 --> 00:01:59,303
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+384
+00:01:59,303 --> 00:01:59,363
+[SPEAKER_01]: For example, they work together to design a special cover that goes round <u>an</u> egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+385
+00:01:59,363 --> 00:01:59,544
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+386
+00:01:59,544 --> 00:01:59,744
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an <u>egg,</u> so that when it's inside they can drop it from a height and it doesn't break.
+
+387
+00:01:59,744 --> 00:02:00,284
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+388
+00:02:00,284 --> 00:02:00,484
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, <u>so</u> that when it's inside they can drop it from a height and it doesn't break.
+
+389
+00:02:00,484 --> 00:02:00,544
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+390
+00:02:00,544 --> 00:02:00,705
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so <u>that</u> when it's inside they can drop it from a height and it doesn't break.
+
+391
+00:02:00,705 --> 00:02:00,825
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+392
+00:02:00,825 --> 00:02:01,045
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that <u>when</u> it's inside they can drop it from a height and it doesn't break.
+
+393
+00:02:01,045 --> 00:02:01,105
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+394
+00:02:01,105 --> 00:02:01,285
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when <u>it's</u> inside they can drop it from a height and it doesn't break.
+
+395
+00:02:01,285 --> 00:02:01,365
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+396
+00:02:01,365 --> 00:02:02,026
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's <u>inside</u> they can drop it from a height and it doesn't break.
+
+397
+00:02:02,026 --> 00:02:02,206
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+398
+00:02:02,206 --> 00:02:02,406
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside <u>they</u> can drop it from a height and it doesn't break.
+
+399
+00:02:02,406 --> 00:02:02,446
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+400
+00:02:02,446 --> 00:02:02,606
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they <u>can</u> drop it from a height and it doesn't break.
+
+401
+00:02:02,606 --> 00:02:02,646
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+402
+00:02:02,646 --> 00:02:02,906
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can <u>drop</u> it from a height and it doesn't break.
+
+403
+00:02:02,906 --> 00:02:02,946
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+404
+00:02:02,946 --> 00:02:03,006
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop <u>it</u> from a height and it doesn't break.
+
+405
+00:02:03,006 --> 00:02:03,047
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+406
+00:02:03,047 --> 00:02:03,227
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it <u>from</u> a height and it doesn't break.
+
+407
+00:02:03,227 --> 00:02:03,287
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+408
+00:02:03,287 --> 00:02:03,307
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from <u>a</u> height and it doesn't break.
+
+409
+00:02:03,307 --> 00:02:03,367
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+410
+00:02:03,367 --> 00:02:03,687
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a <u>height</u> and it doesn't break.
+
+411
+00:02:03,687 --> 00:02:03,947
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+412
+00:02:03,947 --> 00:02:04,107
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height <u>and</u> it doesn't break.
+
+413
+00:02:04,107 --> 00:02:04,248
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+414
+00:02:04,248 --> 00:02:04,308
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and <u>it</u> doesn't break.
+
+415
+00:02:04,308 --> 00:02:04,348
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+416
+00:02:04,348 --> 00:02:04,628
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it <u>doesn't</u> break.
+
+417
+00:02:04,628 --> 00:02:04,688
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break.
+
+418
+00:02:04,688 --> 00:02:05,108
+[SPEAKER_01]: For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't <u>break.</u>
+
+419
+00:02:05,789 --> 00:02:05,969
+[SPEAKER_01]: <u>Well,</u> sometimes it does break, but that's part of the fun.
+
+420
+00:02:05,969 --> 00:02:06,469
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+421
+00:02:06,469 --> 00:02:07,050
+[SPEAKER_01]: Well, <u>sometimes</u> it does break, but that's part of the fun.
+
+422
+00:02:07,050 --> 00:02:07,150
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+423
+00:02:07,150 --> 00:02:07,210
+[SPEAKER_01]: Well, sometimes <u>it</u> does break, but that's part of the fun.
+
+424
+00:02:07,210 --> 00:02:07,250
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+425
+00:02:07,250 --> 00:02:07,470
+[SPEAKER_01]: Well, sometimes it <u>does</u> break, but that's part of the fun.
+
+426
+00:02:07,470 --> 00:02:07,530
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+427
+00:02:07,530 --> 00:02:07,871
+[SPEAKER_01]: Well, sometimes it does <u>break,</u> but that's part of the fun.
+
+428
+00:02:07,871 --> 00:02:07,911
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+429
+00:02:07,911 --> 00:02:08,051
+[SPEAKER_01]: Well, sometimes it does break, <u>but</u> that's part of the fun.
+
+430
+00:02:08,051 --> 00:02:08,171
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+431
+00:02:08,171 --> 00:02:08,391
+[SPEAKER_01]: Well, sometimes it does break, but <u>that's</u> part of the fun.
+
+432
+00:02:08,391 --> 00:02:08,431
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+433
+00:02:08,431 --> 00:02:08,651
+[SPEAKER_01]: Well, sometimes it does break, but that's <u>part</u> of the fun.
+
+434
+00:02:08,651 --> 00:02:08,691
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+435
+00:02:08,691 --> 00:02:08,751
+[SPEAKER_01]: Well, sometimes it does break, but that's part <u>of</u> the fun.
+
+436
+00:02:08,751 --> 00:02:08,791
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+437
+00:02:08,791 --> 00:02:08,871
+[SPEAKER_01]: Well, sometimes it does break, but that's part of <u>the</u> fun.
+
+438
+00:02:08,871 --> 00:02:08,932
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the fun.
+
+439
+00:02:08,932 --> 00:02:09,192
+[SPEAKER_01]: Well, sometimes it does break, but that's part of the <u>fun.</u>
+
+440
+00:02:09,652 --> 00:02:10,012
+[SPEAKER_02]: <u>Right.</u>
+
+441
+00:02:10,833 --> 00:02:10,973
+[SPEAKER_02]: <u>And</u> Lydia loves building things.
+
+442
+00:02:10,973 --> 00:02:11,033
+[SPEAKER_02]: And Lydia loves building things.
+
+443
+00:02:11,033 --> 00:02:11,454
+[SPEAKER_02]: And <u>Lydia</u> loves building things.
+
+444
+00:02:11,454 --> 00:02:11,554
+[SPEAKER_02]: And Lydia loves building things.
+
+445
+00:02:11,554 --> 00:02:11,874
+[SPEAKER_02]: And Lydia <u>loves</u> building things.
+
+446
+00:02:11,874 --> 00:02:11,954
+[SPEAKER_02]: And Lydia loves building things.
+
+447
+00:02:11,954 --> 00:02:12,394
+[SPEAKER_02]: And Lydia loves <u>building</u> things.
+
+448
+00:02:12,394 --> 00:02:12,455
+[SPEAKER_02]: And Lydia loves building things.
+
+449
+00:02:12,455 --> 00:02:12,795
+[SPEAKER_02]: And Lydia loves building <u>things.</u>
+
+450
+00:02:14,236 --> 00:02:14,316
+[SPEAKER_02]: <u>Is</u> there any opportunity for her to do that?
+
+451
+00:02:14,316 --> 00:02:14,336
+[SPEAKER_02]: Is there any opportunity for her to do that?
+
+452
+00:02:14,336 --> 00:02:14,476
+[SPEAKER_02]: Is <u>there</u> any opportunity for her to do that?
+
+453
+00:02:14,476 --> 00:02:14,516
+[SPEAKER_02]: Is there any opportunity for her to do that?
+
+454
+00:02:14,516 --> 00:02:14,636
+[SPEAKER_02]: Is there <u>any</u> opportunity for her to do that?
+
+455
+00:02:14,636 --> 00:02:14,696
+[SPEAKER_02]: Is there any opportunity for her to do that?
+
+456
+00:02:14,696 --> 00:02:15,337
+[SPEAKER_02]: Is there any <u>opportunity</u> for her to do that?
+
+457
+00:02:15,337 --> 00:02:15,397
+[SPEAKER_02]: Is there any opportunity for her to do that?
+
+458
+00:02:15,397 --> 00:02:15,557
+[SPEAKER_02]: Is there any opportunity <u>for</u> her to do that?
+
+459
+00:02:15,557 --> 00:02:15,597
+[SPEAKER_02]: Is there any opportunity for her to do that?
+
+460
+00:02:15,597 --> 00:02:15,697
+[SPEAKER_02]: Is there any opportunity for <u>her</u> to do that?
+
+461
+00:02:15,697 --> 00:02:15,757
+[SPEAKER_02]: Is there any opportunity for her to do that?
+
+462
+00:02:15,757 --> 00:02:15,857
+[SPEAKER_02]: Is there any opportunity for her <u>to</u> do that?
+
+463
+00:02:15,857 --> 00:02:15,897
+[SPEAKER_02]: Is there any opportunity for her to do that?
+
+464
+00:02:15,897 --> 00:02:16,038
+[SPEAKER_02]: Is there any opportunity for her to <u>do</u> that?
+
+465
+00:02:16,038 --> 00:02:16,098
+[SPEAKER_02]: Is there any opportunity for her to do that?
+
+466
+00:02:16,098 --> 00:02:16,318
+[SPEAKER_02]: Is there any opportunity for her to do <u>that?</u>
+
+467
+00:02:16,832 --> 00:02:17,212
+[SPEAKER_01]: <u>Well,</u> they have a competition to see who can make the highest tower.
+
+468
+00:02:17,212 --> 00:02:17,672
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+469
+00:02:17,672 --> 00:02:17,853
+[SPEAKER_01]: Well, <u>they</u> have a competition to see who can make the highest tower.
+
+470
+00:02:17,853 --> 00:02:17,893
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+471
+00:02:17,893 --> 00:02:18,053
+[SPEAKER_01]: Well, they <u>have</u> a competition to see who can make the highest tower.
+
+472
+00:02:18,053 --> 00:02:18,093
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+473
+00:02:18,093 --> 00:02:18,113
+[SPEAKER_01]: Well, they have <u>a</u> competition to see who can make the highest tower.
+
+474
+00:02:18,113 --> 00:02:18,173
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+475
+00:02:18,173 --> 00:02:18,893
+[SPEAKER_01]: Well, they have a <u>competition</u> to see who can make the highest tower.
+
+476
+00:02:18,893 --> 00:02:18,953
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+477
+00:02:18,953 --> 00:02:19,033
+[SPEAKER_01]: Well, they have a competition <u>to</u> see who can make the highest tower.
+
+478
+00:02:19,033 --> 00:02:19,093
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+479
+00:02:19,093 --> 00:02:19,253
+[SPEAKER_01]: Well, they have a competition to <u>see</u> who can make the highest tower.
+
+480
+00:02:19,253 --> 00:02:19,313
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+481
+00:02:19,313 --> 00:02:19,473
+[SPEAKER_01]: Well, they have a competition to see <u>who</u> can make the highest tower.
+
+482
+00:02:19,473 --> 00:02:19,513
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+483
+00:02:19,513 --> 00:02:19,654
+[SPEAKER_01]: Well, they have a competition to see who <u>can</u> make the highest tower.
+
+484
+00:02:19,654 --> 00:02:19,694
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+485
+00:02:19,694 --> 00:02:19,914
+[SPEAKER_01]: Well, they have a competition to see who can <u>make</u> the highest tower.
+
+486
+00:02:19,914 --> 00:02:19,954
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+487
+00:02:19,954 --> 00:02:20,054
+[SPEAKER_01]: Well, they have a competition to see who can make <u>the</u> highest tower.
+
+488
+00:02:20,054 --> 00:02:20,094
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+489
+00:02:20,094 --> 00:02:20,534
+[SPEAKER_01]: Well, they have a competition to see who can make the <u>highest</u> tower.
+
+490
+00:02:20,534 --> 00:02:20,694
+[SPEAKER_01]: Well, they have a competition to see who can make the highest tower.
+
+491
+00:02:20,694 --> 00:02:21,174
+[SPEAKER_01]: Well, they have a competition to see who can make the highest <u>tower.</u>
+
+492
+00:02:21,955 --> 00:02:22,235
+[SPEAKER_01]: <u>You'd</u> be amazed how high they can go!
+
+493
+00:02:22,235 --> 00:02:22,275
+[SPEAKER_01]: You'd be amazed how high they can go!
+
+494
+00:02:22,275 --> 00:02:22,455
+[SPEAKER_01]: You'd <u>be</u> amazed how high they can go!
+
+495
+00:02:22,455 --> 00:02:22,535
+[SPEAKER_01]: You'd be amazed how high they can go!
+
+496
+00:02:22,535 --> 00:02:23,015
+[SPEAKER_01]: You'd be <u>amazed</u> how high they can go!
+
+497
+00:02:23,015 --> 00:02:23,055
+[SPEAKER_01]: You'd be amazed how high they can go!
+
+498
+00:02:23,055 --> 00:02:23,235
+[SPEAKER_01]: You'd be amazed <u>how</u> high they can go!
+
+499
+00:02:23,235 --> 00:02:23,295
+[SPEAKER_01]: You'd be amazed how high they can go!
+
+500
+00:02:23,295 --> 00:02:23,516
+[SPEAKER_01]: You'd be amazed how <u>high</u> they can go!
+
+501
+00:02:23,516 --> 00:02:23,556
+[SPEAKER_01]: You'd be amazed how high they can go!
+
+502
+00:02:23,556 --> 00:02:23,676
+[SPEAKER_01]: You'd be amazed how high <u>they</u> can go!
+
+503
+00:02:23,676 --> 00:02:23,716
+[SPEAKER_01]: You'd be amazed how high they can go!
+
+504
+00:02:23,716 --> 00:02:23,856
+[SPEAKER_01]: You'd be amazed how high they <u>can</u> go!
+
+505
+00:02:23,856 --> 00:02:23,896
+[SPEAKER_01]: You'd be amazed how high they can go!
+
+506
+00:02:23,896 --> 00:02:24,136
+[SPEAKER_01]: You'd be amazed how high they can <u>go!</u>
+
+507
+00:02:24,156 --> 00:02:24,876
+[SPEAKER_01]: <u>Right!</u>
+
+508
+00:02:25,557 --> 00:02:25,797
+[SPEAKER_01]: <u>But</u> they're learning all the time as well as having fun.
+
+509
+00:02:25,797 --> 00:02:26,017
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+510
+00:02:26,017 --> 00:02:26,257
+[SPEAKER_01]: But <u>they're</u> learning all the time as well as having fun.
+
+511
+00:02:26,257 --> 00:02:26,277
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+512
+00:02:26,277 --> 00:02:26,597
+[SPEAKER_01]: But they're <u>learning</u> all the time as well as having fun.
+
+513
+00:02:26,597 --> 00:02:26,777
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+514
+00:02:26,777 --> 00:02:26,977
+[SPEAKER_01]: But they're learning <u>all</u> the time as well as having fun.
+
+515
+00:02:26,977 --> 00:02:27,017
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+516
+00:02:27,017 --> 00:02:27,117
+[SPEAKER_01]: But they're learning all <u>the</u> time as well as having fun.
+
+517
+00:02:27,117 --> 00:02:27,177
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+518
+00:02:27,177 --> 00:02:27,618
+[SPEAKER_01]: But they're learning all the <u>time</u> as well as having fun.
+
+519
+00:02:27,618 --> 00:02:27,738
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+520
+00:02:27,738 --> 00:02:27,798
+[SPEAKER_01]: But they're learning all the time <u>as</u> well as having fun.
+
+521
+00:02:27,798 --> 00:02:27,838
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+522
+00:02:27,838 --> 00:02:28,038
+[SPEAKER_01]: But they're learning all the time as <u>well</u> as having fun.
+
+523
+00:02:28,038 --> 00:02:28,098
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+524
+00:02:28,098 --> 00:02:28,178
+[SPEAKER_01]: But they're learning all the time as well <u>as</u> having fun.
+
+525
+00:02:28,178 --> 00:02:28,218
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+526
+00:02:28,218 --> 00:02:28,538
+[SPEAKER_01]: But they're learning all the time as well as <u>having</u> fun.
+
+527
+00:02:28,538 --> 00:02:28,618
+[SPEAKER_01]: But they're learning all the time as well as having fun.
+
+528
+00:02:28,618 --> 00:02:28,918
+[SPEAKER_01]: But they're learning all the time as well as having <u>fun.</u>
+
+529
+00:02:29,559 --> 00:02:29,659
+[SPEAKER_01]: <u>For</u> example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+530
+00:02:29,659 --> 00:02:29,739
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+531
+00:02:29,739 --> 00:02:30,179
+[SPEAKER_01]: For <u>example,</u> one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+532
+00:02:30,179 --> 00:02:30,699
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+533
+00:02:30,699 --> 00:02:30,839
+[SPEAKER_01]: For example, <u>one</u> thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+534
+00:02:30,839 --> 00:02:30,899
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+535
+00:02:30,899 --> 00:02:31,119
+[SPEAKER_01]: For example, one <u>thing</u> they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+536
+00:02:31,119 --> 00:02:31,179
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+537
+00:02:31,179 --> 00:02:31,320
+[SPEAKER_01]: For example, one thing <u>they</u> do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+538
+00:02:31,320 --> 00:02:31,360
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+539
+00:02:31,360 --> 00:02:31,560
+[SPEAKER_01]: For example, one thing they <u>do</u> is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+540
+00:02:31,560 --> 00:02:31,780
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+541
+00:02:31,780 --> 00:02:31,900
+[SPEAKER_01]: For example, one thing they do <u>is</u> to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+542
+00:02:31,900 --> 00:02:31,960
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+543
+00:02:31,960 --> 00:02:32,060
+[SPEAKER_01]: For example, one thing they do is <u>to</u> design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+544
+00:02:32,060 --> 00:02:32,100
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+545
+00:02:32,100 --> 00:02:32,620
+[SPEAKER_01]: For example, one thing they do is to <u>design</u> and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+546
+00:02:32,620 --> 00:02:32,680
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+547
+00:02:32,680 --> 00:02:32,800
+[SPEAKER_01]: For example, one thing they do is to design <u>and</u> build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+548
+00:02:32,800 --> 00:02:32,840
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+549
+00:02:32,840 --> 00:02:33,120
+[SPEAKER_01]: For example, one thing they do is to design and <u>build</u> a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+550
+00:02:33,120 --> 00:02:33,181
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+551
+00:02:33,181 --> 00:02:33,201
+[SPEAKER_01]: For example, one thing they do is to design and build <u>a</u> car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+552
+00:02:33,201 --> 00:02:33,281
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+553
+00:02:33,281 --> 00:02:33,781
+[SPEAKER_01]: For example, one thing they do is to design and build a <u>car</u> that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+554
+00:02:33,781 --> 00:02:33,901
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+555
+00:02:33,901 --> 00:02:34,141
+[SPEAKER_01]: For example, one thing they do is to design and build a car <u>that's</u> attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+556
+00:02:34,141 --> 00:02:34,201
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+557
+00:02:34,201 --> 00:02:34,621
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's <u>attached</u> to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+558
+00:02:34,621 --> 00:02:34,641
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+559
+00:02:34,641 --> 00:02:34,761
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached <u>to</u> a balloon and the force of the air in that actually powers the car and makes it move along.
+
+560
+00:02:34,761 --> 00:02:34,801
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+561
+00:02:34,801 --> 00:02:34,841
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to <u>a</u> balloon and the force of the air in that actually powers the car and makes it move along.
+
+562
+00:02:34,841 --> 00:02:34,901
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+563
+00:02:34,901 --> 00:02:35,462
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a <u>balloon</u> and the force of the air in that actually powers the car and makes it move along.
+
+564
+00:02:35,462 --> 00:02:35,982
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+565
+00:02:35,982 --> 00:02:36,082
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon <u>and</u> the force of the air in that actually powers the car and makes it move along.
+
+566
+00:02:36,082 --> 00:02:36,122
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+567
+00:02:36,122 --> 00:02:36,222
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and <u>the</u> force of the air in that actually powers the car and makes it move along.
+
+568
+00:02:36,222 --> 00:02:36,302
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+569
+00:02:36,302 --> 00:02:36,662
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the <u>force</u> of the air in that actually powers the car and makes it move along.
+
+570
+00:02:36,662 --> 00:02:36,722
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+571
+00:02:36,722 --> 00:02:36,762
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force <u>of</u> the air in that actually powers the car and makes it move along.
+
+572
+00:02:36,762 --> 00:02:36,822
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+573
+00:02:36,822 --> 00:02:36,942
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of <u>the</u> air in that actually powers the car and makes it move along.
+
+574
+00:02:36,942 --> 00:02:37,123
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+575
+00:02:37,123 --> 00:02:37,283
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the <u>air</u> in that actually powers the car and makes it move along.
+
+576
+00:02:37,283 --> 00:02:37,523
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+577
+00:02:37,523 --> 00:02:37,663
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air <u>in</u> that actually powers the car and makes it move along.
+
+578
+00:02:37,663 --> 00:02:37,723
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+579
+00:02:37,723 --> 00:02:37,923
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in <u>that</u> actually powers the car and makes it move along.
+
+580
+00:02:37,923 --> 00:02:38,163
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+581
+00:02:38,163 --> 00:02:38,603
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that <u>actually</u> powers the car and makes it move along.
+
+582
+00:02:38,603 --> 00:02:38,723
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+583
+00:02:38,723 --> 00:02:39,204
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually <u>powers</u> the car and makes it move along.
+
+584
+00:02:39,204 --> 00:02:39,244
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+585
+00:02:39,244 --> 00:02:39,324
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers <u>the</u> car and makes it move along.
+
+586
+00:02:39,324 --> 00:02:39,364
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+587
+00:02:39,364 --> 00:02:39,664
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the <u>car</u> and makes it move along.
+
+588
+00:02:39,664 --> 00:02:39,884
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+589
+00:02:39,884 --> 00:02:39,964
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car <u>and</u> makes it move along.
+
+590
+00:02:39,964 --> 00:02:40,004
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+591
+00:02:40,004 --> 00:02:40,264
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and <u>makes</u> it move along.
+
+592
+00:02:40,264 --> 00:02:40,344
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+593
+00:02:40,344 --> 00:02:40,404
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes <u>it</u> move along.
+
+594
+00:02:40,404 --> 00:02:40,464
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+595
+00:02:40,464 --> 00:02:40,664
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it <u>move</u> along.
+
+596
+00:02:40,664 --> 00:02:40,724
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along.
+
+597
+00:02:40,724 --> 00:02:41,085
+[SPEAKER_01]: For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move <u>along.</u>
+
+598
+00:02:41,745 --> 00:02:41,885
+[SPEAKER_01]: <u>They</u> go really fast too!
+
+599
+00:02:41,885 --> 00:02:41,925
+[SPEAKER_01]: They go really fast too!
+
+600
+00:02:41,925 --> 00:02:42,085
+[SPEAKER_01]: They <u>go</u> really fast too!
+
+601
+00:02:42,085 --> 00:02:42,205
+[SPEAKER_01]: They go really fast too!
+
+602
+00:02:42,205 --> 00:02:42,625
+[SPEAKER_01]: They go <u>really</u> fast too!
+
+603
+00:02:42,625 --> 00:02:42,705
+[SPEAKER_01]: They go really fast too!
+
+604
+00:02:42,705 --> 00:02:43,066
+[SPEAKER_01]: They go really <u>fast</u> too!
+
+605
+00:02:43,066 --> 00:02:43,146
+[SPEAKER_01]: They go really fast too!
+
+606
+00:02:43,146 --> 00:02:43,346
+[SPEAKER_01]: They go really fast <u>too!</u>
+
+607
+00:02:43,926 --> 00:02:44,527
+[SPEAKER_00]: <u>okay</u> well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+608
+00:02:44,527 --> 00:02:44,707
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+609
+00:02:44,707 --> 00:02:45,067
+[SPEAKER_00]: okay <u>well</u> all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+610
+00:02:45,067 --> 00:02:45,607
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+611
+00:02:45,607 --> 00:02:45,747
+[SPEAKER_00]: okay well <u>all</u> this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+612
+00:02:45,747 --> 00:02:45,788
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+613
+00:02:45,788 --> 00:02:45,948
+[SPEAKER_00]: okay well all <u>this</u> sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+614
+00:02:45,948 --> 00:02:46,008
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+615
+00:02:46,008 --> 00:02:46,288
+[SPEAKER_00]: okay well all this <u>sounds</u> perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+616
+00:02:46,288 --> 00:02:46,428
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+617
+00:02:46,428 --> 00:02:47,149
+[SPEAKER_00]: okay well all this sounds <u>perfect</u> before you hear the rest of the conversation you have some time to look at questions four to ten
+
+618
+00:02:47,149 --> 00:02:50,871
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+619
+00:02:50,871 --> 00:02:51,252
+[SPEAKER_00]: okay well all this sounds perfect <u>before</u> you hear the rest of the conversation you have some time to look at questions four to ten
+
+620
+00:02:51,252 --> 00:02:51,312
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+621
+00:02:51,312 --> 00:02:51,432
+[SPEAKER_00]: okay well all this sounds perfect before <u>you</u> hear the rest of the conversation you have some time to look at questions four to ten
+
+622
+00:02:51,432 --> 00:02:51,472
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+623
+00:02:51,472 --> 00:02:51,672
+[SPEAKER_00]: okay well all this sounds perfect before you <u>hear</u> the rest of the conversation you have some time to look at questions four to ten
+
+624
+00:02:51,672 --> 00:02:51,732
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+625
+00:02:51,732 --> 00:02:51,832
+[SPEAKER_00]: okay well all this sounds perfect before you hear <u>the</u> rest of the conversation you have some time to look at questions four to ten
+
+626
+00:02:51,832 --> 00:02:51,892
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+627
+00:02:51,892 --> 00:02:52,132
+[SPEAKER_00]: okay well all this sounds perfect before you hear the <u>rest</u> of the conversation you have some time to look at questions four to ten
+
+628
+00:02:52,132 --> 00:02:52,172
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+629
+00:02:52,172 --> 00:02:52,232
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest <u>of</u> the conversation you have some time to look at questions four to ten
+
+630
+00:02:52,232 --> 00:02:52,272
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+631
+00:02:52,272 --> 00:02:52,372
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of <u>the</u> conversation you have some time to look at questions four to ten
+
+632
+00:02:52,372 --> 00:02:52,412
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+633
+00:02:52,412 --> 00:02:53,113
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the <u>conversation</u> you have some time to look at questions four to ten
+
+634
+00:02:53,113 --> 00:02:53,613
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+635
+00:02:53,613 --> 00:02:53,753
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation <u>you</u> have some time to look at questions four to ten
+
+636
+00:02:53,753 --> 00:02:53,773
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+637
+00:02:53,773 --> 00:02:53,954
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you <u>have</u> some time to look at questions four to ten
+
+638
+00:02:53,954 --> 00:02:54,014
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+639
+00:02:54,014 --> 00:02:54,194
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have <u>some</u> time to look at questions four to ten
+
+640
+00:02:54,194 --> 00:02:54,254
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+641
+00:02:54,254 --> 00:02:54,594
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some <u>time</u> to look at questions four to ten
+
+642
+00:02:54,594 --> 00:02:54,754
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+643
+00:02:54,754 --> 00:02:54,854
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time <u>to</u> look at questions four to ten
+
+644
+00:02:54,854 --> 00:02:54,894
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+645
+00:02:54,894 --> 00:02:55,074
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to <u>look</u> at questions four to ten
+
+646
+00:02:55,074 --> 00:02:55,114
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+647
+00:02:55,114 --> 00:02:55,195
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look <u>at</u> questions four to ten
+
+648
+00:02:55,195 --> 00:02:55,295
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+649
+00:02:55,295 --> 00:02:55,835
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at <u>questions</u> four to ten
+
+650
+00:02:55,835 --> 00:02:56,015
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+651
+00:02:56,015 --> 00:02:56,355
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions <u>four</u> to ten
+
+652
+00:02:56,355 --> 00:02:56,596
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+653
+00:02:56,596 --> 00:02:56,696
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four <u>to</u> ten
+
+654
+00:02:56,696 --> 00:02:56,756
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to ten
+
+655
+00:02:56,756 --> 00:02:56,956
+[SPEAKER_00]: okay well all this sounds perfect before you hear the rest of the conversation you have some time to look at questions four to <u>ten</u>
+
+656
+00:03:27,665 --> 00:03:27,905
+[SPEAKER_00]: <u>Now</u> listen and answer questions four to ten.
+
+657
+00:03:27,905 --> 00:03:27,965
+[SPEAKER_00]: Now listen and answer questions four to ten.
+
+658
+00:03:27,965 --> 00:03:28,346
+[SPEAKER_00]: Now <u>listen</u> and answer questions four to ten.
+
+659
+00:03:28,346 --> 00:03:28,506
+[SPEAKER_00]: Now listen and answer questions four to ten.
+
+660
+00:03:28,506 --> 00:03:28,626
+[SPEAKER_00]: Now listen <u>and</u> answer questions four to ten.
+
+661
+00:03:28,626 --> 00:03:28,806
+[SPEAKER_00]: Now listen and answer questions four to ten.
+
+662
+00:03:28,806 --> 00:03:29,186
+[SPEAKER_00]: Now listen and <u>answer</u> questions four to ten.
+
+663
+00:03:29,186 --> 00:03:29,267
+[SPEAKER_00]: Now listen and answer questions four to ten.
+
+664
+00:03:29,267 --> 00:03:29,787
+[SPEAKER_00]: Now listen and answer <u>questions</u> four to ten.
+
+665
+00:03:29,787 --> 00:03:29,907
+[SPEAKER_00]: Now listen and answer questions four to ten.
+
+666
+00:03:29,907 --> 00:03:30,187
+[SPEAKER_00]: Now listen and answer questions <u>four</u> to ten.
+
+667
+00:03:30,187 --> 00:03:30,227
+[SPEAKER_00]: Now listen and answer questions four to ten.
+
+668
+00:03:30,227 --> 00:03:30,307
+[SPEAKER_00]: Now listen and answer questions four <u>to</u> ten.
+
+669
+00:03:30,307 --> 00:03:30,348
+[SPEAKER_00]: Now listen and answer questions four to ten.
+
+670
+00:03:30,348 --> 00:03:30,648
+[SPEAKER_00]: Now listen and answer questions four to <u>ten.</u>
+
+671
+00:03:34,491 --> 00:03:34,651
+[SPEAKER_02]: <u>Now</u> Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+672
+00:03:34,651 --> 00:03:34,832
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+673
+00:03:34,832 --> 00:03:35,452
+[SPEAKER_02]: Now <u>Carly,</u> that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+674
+00:03:35,452 --> 00:03:35,692
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+675
+00:03:35,692 --> 00:03:35,913
+[SPEAKER_02]: Now Carly, <u>that's</u> my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+676
+00:03:35,913 --> 00:03:35,973
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+677
+00:03:35,973 --> 00:03:36,113
+[SPEAKER_02]: Now Carly, that's <u>my</u> older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+678
+00:03:36,113 --> 00:03:36,193
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+679
+00:03:36,193 --> 00:03:36,453
+[SPEAKER_02]: Now Carly, that's my <u>older</u> daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+680
+00:03:36,453 --> 00:03:36,493
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+681
+00:03:36,493 --> 00:03:36,874
+[SPEAKER_02]: Now Carly, that's my older <u>daughter,</u> has just had her seventh birthday, so presumably she'd be in a different group.
+
+682
+00:03:36,874 --> 00:03:37,414
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+683
+00:03:37,414 --> 00:03:37,534
+[SPEAKER_02]: Now Carly, that's my older daughter, <u>has</u> just had her seventh birthday, so presumably she'd be in a different group.
+
+684
+00:03:37,534 --> 00:03:37,594
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+685
+00:03:37,594 --> 00:03:37,814
+[SPEAKER_02]: Now Carly, that's my older daughter, has <u>just</u> had her seventh birthday, so presumably she'd be in a different group.
+
+686
+00:03:37,814 --> 00:03:37,854
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+687
+00:03:37,854 --> 00:03:38,055
+[SPEAKER_02]: Now Carly, that's my older daughter, has just <u>had</u> her seventh birthday, so presumably she'd be in a different group.
+
+688
+00:03:38,055 --> 00:03:38,095
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+689
+00:03:38,095 --> 00:03:38,235
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had <u>her</u> seventh birthday, so presumably she'd be in a different group.
+
+690
+00:03:38,235 --> 00:03:38,355
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+691
+00:03:38,355 --> 00:03:38,835
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her <u>seventh</u> birthday, so presumably she'd be in a different group.
+
+692
+00:03:38,835 --> 00:03:38,935
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+693
+00:03:38,935 --> 00:03:39,476
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh <u>birthday,</u> so presumably she'd be in a different group.
+
+694
+00:03:39,476 --> 00:03:40,177
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+695
+00:03:40,177 --> 00:03:40,417
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, <u>so</u> presumably she'd be in a different group.
+
+696
+00:03:40,417 --> 00:03:40,577
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+697
+00:03:40,577 --> 00:03:41,398
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so <u>presumably</u> she'd be in a different group.
+
+698
+00:03:41,398 --> 00:03:41,618
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+699
+00:03:41,618 --> 00:03:41,858
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably <u>she'd</u> be in a different group.
+
+700
+00:03:41,858 --> 00:03:41,898
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+701
+00:03:41,898 --> 00:03:41,998
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd <u>be</u> in a different group.
+
+702
+00:03:41,998 --> 00:03:42,018
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+703
+00:03:42,018 --> 00:03:42,098
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be <u>in</u> a different group.
+
+704
+00:03:42,098 --> 00:03:42,118
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+705
+00:03:42,118 --> 00:03:42,158
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in <u>a</u> different group.
+
+706
+00:03:42,158 --> 00:03:42,198
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+707
+00:03:42,198 --> 00:03:42,559
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a <u>different</u> group.
+
+708
+00:03:42,559 --> 00:03:42,659
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group.
+
+709
+00:03:42,659 --> 00:03:42,959
+[SPEAKER_02]: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different <u>group.</u>
+
+710
+00:03:43,279 --> 00:03:43,640
+[SPEAKER_01]: <u>Yes,</u> she'd be in the junior engineers.
+
+711
+00:03:43,640 --> 00:03:44,340
+[SPEAKER_01]: Yes, she'd be in the junior engineers.
+
+712
+00:03:44,340 --> 00:03:44,621
+[SPEAKER_01]: Yes, <u>she'd</u> be in the junior engineers.
+
+713
+00:03:44,621 --> 00:03:44,661
+[SPEAKER_01]: Yes, she'd be in the junior engineers.
+
+714
+00:03:44,661 --> 00:03:44,821
+[SPEAKER_01]: Yes, she'd <u>be</u> in the junior engineers.
+
+715
+00:03:44,821 --> 00:03:44,861
+[SPEAKER_01]: Yes, she'd be in the junior engineers.
+
+716
+00:03:44,861 --> 00:03:44,941
+[SPEAKER_01]: Yes, she'd be <u>in</u> the junior engineers.
+
+717
+00:03:44,941 --> 00:03:45,001
+[SPEAKER_01]: Yes, she'd be in the junior engineers.
+
+718
+00:03:45,001 --> 00:03:45,061
+[SPEAKER_01]: Yes, she'd be in <u>the</u> junior engineers.
+
+719
+00:03:45,061 --> 00:03:45,141
+[SPEAKER_01]: Yes, she'd be in the junior engineers.
+
+720
+00:03:45,141 --> 00:03:45,602
+[SPEAKER_01]: Yes, she'd be in the <u>junior</u> engineers.
+
+721
+00:03:45,602 --> 00:03:45,722
+[SPEAKER_01]: Yes, she'd be in the junior engineers.
+
+722
+00:03:45,722 --> 00:03:46,422
+[SPEAKER_01]: Yes, she'd be in the junior <u>engineers.</u>
+
+723
+00:03:47,083 --> 00:03:47,383
+[SPEAKER_01]: <u>That's</u> for children from six to eight.
+
+724
+00:03:47,383 --> 00:03:47,443
+[SPEAKER_01]: That's for children from six to eight.
+
+725
+00:03:47,443 --> 00:03:47,563
+[SPEAKER_01]: That's <u>for</u> children from six to eight.
+
+726
+00:03:47,563 --> 00:03:47,583
+[SPEAKER_01]: That's for children from six to eight.
+
+727
+00:03:47,583 --> 00:03:48,004
+[SPEAKER_01]: That's for <u>children</u> from six to eight.
+
+728
+00:03:48,004 --> 00:03:48,064
+[SPEAKER_01]: That's for children from six to eight.
+
+729
+00:03:48,064 --> 00:03:48,244
+[SPEAKER_01]: That's for children <u>from</u> six to eight.
+
+730
+00:03:48,244 --> 00:03:48,404
+[SPEAKER_01]: That's for children from six to eight.
+
+731
+00:03:48,404 --> 00:03:48,764
+[SPEAKER_01]: That's for children from <u>six</u> to eight.
+
+732
+00:03:48,764 --> 00:03:48,885
+[SPEAKER_01]: That's for children from six to eight.
+
+733
+00:03:48,885 --> 00:03:49,045
+[SPEAKER_01]: That's for children from six <u>to</u> eight.
+
+734
+00:03:49,045 --> 00:03:49,165
+[SPEAKER_01]: That's for children from six to eight.
+
+735
+00:03:49,165 --> 00:03:49,405
+[SPEAKER_01]: That's for children from six to <u>eight.</u>
+
+736
+00:03:50,106 --> 00:03:50,226
+[SPEAKER_02]: <u>And</u> do they do the same sorts of activities?
+
+737
+00:03:50,226 --> 00:03:50,266
+[SPEAKER_02]: And do they do the same sorts of activities?
+
+738
+00:03:50,266 --> 00:03:50,386
+[SPEAKER_02]: And <u>do</u> they do the same sorts of activities?
+
+739
+00:03:50,386 --> 00:03:50,426
+[SPEAKER_02]: And do they do the same sorts of activities?
+
+740
+00:03:50,426 --> 00:03:50,606
+[SPEAKER_02]: And do <u>they</u> do the same sorts of activities?
+
+741
+00:03:50,606 --> 00:03:50,646
+[SPEAKER_02]: And do they do the same sorts of activities?
+
+742
+00:03:50,646 --> 00:03:50,826
+[SPEAKER_02]: And do they <u>do</u> the same sorts of activities?
+
+743
+00:03:50,826 --> 00:03:50,886
+[SPEAKER_02]: And do they do the same sorts of activities?
+
+744
+00:03:50,886 --> 00:03:50,966
+[SPEAKER_02]: And do they do <u>the</u> same sorts of activities?
+
+745
+00:03:50,966 --> 00:03:51,026
+[SPEAKER_02]: And do they do the same sorts of activities?
+
+746
+00:03:51,026 --> 00:03:51,327
+[SPEAKER_02]: And do they do the <u>same</u> sorts of activities?
+
+747
+00:03:51,327 --> 00:03:51,447
+[SPEAKER_02]: And do they do the same sorts of activities?
+
+748
+00:03:51,447 --> 00:03:51,707
+[SPEAKER_02]: And do they do the same <u>sorts</u> of activities?
+
+749
+00:03:51,707 --> 00:03:51,747
+[SPEAKER_02]: And do they do the same sorts of activities?
+
+750
+00:03:51,747 --> 00:03:51,807
+[SPEAKER_02]: And do they do the same sorts <u>of</u> activities?
+
+751
+00:03:51,807 --> 00:03:51,887
+[SPEAKER_02]: And do they do the same sorts of activities?
+
+752
+00:03:51,887 --> 00:03:52,448
+[SPEAKER_02]: And do they do the same sorts of <u>activities?</u>
+
+753
+00:03:52,947 --> 00:03:53,188
+[SPEAKER_01]: <u>Some</u> are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+754
+00:03:53,188 --> 00:03:53,248
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+755
+00:03:53,248 --> 00:03:53,348
+[SPEAKER_01]: Some <u>are</u> the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+756
+00:03:53,348 --> 00:03:53,388
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+757
+00:03:53,388 --> 00:03:53,508
+[SPEAKER_01]: Some are <u>the</u> same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+758
+00:03:53,508 --> 00:03:53,568
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+759
+00:03:53,568 --> 00:03:53,949
+[SPEAKER_01]: Some are the <u>same,</u> but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+760
+00:03:53,949 --> 00:03:54,409
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+761
+00:03:54,409 --> 00:03:54,669
+[SPEAKER_01]: Some are the same, <u>but</u> a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+762
+00:03:54,669 --> 00:03:54,890
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+763
+00:03:54,890 --> 00:03:54,930
+[SPEAKER_01]: Some are the same, but <u>a</u> bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+764
+00:03:54,930 --> 00:03:54,950
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+765
+00:03:54,950 --> 00:03:55,110
+[SPEAKER_01]: Some are the same, but a <u>bit</u> more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+766
+00:03:55,110 --> 00:03:55,150
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+767
+00:03:55,150 --> 00:03:55,330
+[SPEAKER_01]: Some are the same, but a bit <u>more</u> advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+768
+00:03:55,330 --> 00:03:55,410
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+769
+00:03:55,410 --> 00:03:55,971
+[SPEAKER_01]: Some are the same, but a bit more <u>advanced,</u> so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+770
+00:03:55,971 --> 00:03:56,532
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+771
+00:03:56,532 --> 00:03:56,812
+[SPEAKER_01]: Some are the same, but a bit more advanced, <u>so</u> they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+772
+00:03:56,812 --> 00:03:57,033
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+773
+00:03:57,033 --> 00:03:57,213
+[SPEAKER_01]: Some are the same, but a bit more advanced, so <u>they</u> work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+774
+00:03:57,213 --> 00:03:57,233
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+775
+00:03:57,233 --> 00:03:57,473
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they <u>work</u> out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+776
+00:03:57,473 --> 00:03:57,573
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+777
+00:03:57,573 --> 00:03:57,714
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work <u>out</u> how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+778
+00:03:57,714 --> 00:03:57,794
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+779
+00:03:57,794 --> 00:03:58,094
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out <u>how</u> to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+780
+00:03:58,094 --> 00:03:58,174
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+781
+00:03:58,174 --> 00:03:58,254
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how <u>to</u> build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+782
+00:03:58,254 --> 00:03:58,294
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+783
+00:03:58,294 --> 00:03:58,535
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to <u>build</u> model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+784
+00:03:58,535 --> 00:03:58,635
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+785
+00:03:58,635 --> 00:03:58,955
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build <u>model</u> vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+786
+00:03:58,955 --> 00:03:58,995
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+787
+00:03:58,995 --> 00:03:59,656
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model <u>vehicles,</u> things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+788
+00:03:59,656 --> 00:04:00,177
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+789
+00:04:00,177 --> 00:04:00,397
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, <u>things</u> like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+790
+00:04:00,397 --> 00:04:00,437
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+791
+00:04:00,437 --> 00:04:00,657
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things <u>like</u> cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+792
+00:04:00,657 --> 00:04:00,898
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+793
+00:04:00,898 --> 00:04:01,418
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like <u>cars</u> and trucks, but also how to construct animals using the same sorts of material and technique.
+
+794
+00:04:01,418 --> 00:04:01,479
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+795
+00:04:01,479 --> 00:04:01,579
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars <u>and</u> trucks, but also how to construct animals using the same sorts of material and technique.
+
+796
+00:04:01,579 --> 00:04:01,679
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+797
+00:04:01,679 --> 00:04:02,079
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and <u>trucks,</u> but also how to construct animals using the same sorts of material and technique.
+
+798
+00:04:02,079 --> 00:04:02,460
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+799
+00:04:02,460 --> 00:04:02,580
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, <u>but</u> also how to construct animals using the same sorts of material and technique.
+
+800
+00:04:02,580 --> 00:04:02,760
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+801
+00:04:02,760 --> 00:04:03,181
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but <u>also</u> how to construct animals using the same sorts of material and technique.
+
+802
+00:04:03,181 --> 00:04:03,501
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+803
+00:04:03,501 --> 00:04:03,762
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also <u>how</u> to construct animals using the same sorts of material and technique.
+
+804
+00:04:03,762 --> 00:04:03,822
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+805
+00:04:03,822 --> 00:04:03,922
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how <u>to</u> construct animals using the same sorts of material and technique.
+
+806
+00:04:03,922 --> 00:04:03,962
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+807
+00:04:03,962 --> 00:04:04,483
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to <u>construct</u> animals using the same sorts of material and technique.
+
+808
+00:04:04,483 --> 00:04:04,703
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+809
+00:04:04,703 --> 00:04:05,183
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct <u>animals</u> using the same sorts of material and technique.
+
+810
+00:04:05,183 --> 00:04:05,604
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+811
+00:04:05,604 --> 00:04:05,924
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals <u>using</u> the same sorts of material and technique.
+
+812
+00:04:05,924 --> 00:04:06,005
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+813
+00:04:06,005 --> 00:04:06,105
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using <u>the</u> same sorts of material and technique.
+
+814
+00:04:06,105 --> 00:04:06,185
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+815
+00:04:06,185 --> 00:04:06,485
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the <u>same</u> sorts of material and technique.
+
+816
+00:04:06,485 --> 00:04:06,585
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+817
+00:04:06,585 --> 00:04:06,906
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same <u>sorts</u> of material and technique.
+
+818
+00:04:06,906 --> 00:04:06,946
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+819
+00:04:06,946 --> 00:04:07,006
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts <u>of</u> material and technique.
+
+820
+00:04:07,006 --> 00:04:07,066
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+821
+00:04:07,066 --> 00:04:07,787
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of <u>material</u> and technique.
+
+822
+00:04:07,787 --> 00:04:07,887
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+823
+00:04:07,887 --> 00:04:07,987
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material <u>and</u> technique.
+
+824
+00:04:07,987 --> 00:04:08,067
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique.
+
+825
+00:04:08,067 --> 00:04:08,688
+[SPEAKER_01]: Some are the same, but a bit more advanced, so they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and <u>technique.</u>
+
+826
+00:04:09,529 --> 00:04:09,649
+[SPEAKER_01]: <u>And</u> then they learn how they can programme them and make them move.
+
+827
+00:04:09,649 --> 00:04:09,709
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+828
+00:04:09,709 --> 00:04:09,969
+[SPEAKER_01]: And <u>then</u> they learn how they can programme them and make them move.
+
+829
+00:04:09,969 --> 00:04:10,009
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+830
+00:04:10,009 --> 00:04:10,189
+[SPEAKER_01]: And then <u>they</u> learn how they can programme them and make them move.
+
+831
+00:04:10,189 --> 00:04:10,229
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+832
+00:04:10,229 --> 00:04:10,570
+[SPEAKER_01]: And then they <u>learn</u> how they can programme them and make them move.
+
+833
+00:04:10,570 --> 00:04:10,630
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+834
+00:04:10,630 --> 00:04:10,890
+[SPEAKER_01]: And then they learn <u>how</u> they can programme them and make them move.
+
+835
+00:04:10,890 --> 00:04:10,930
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+836
+00:04:10,930 --> 00:04:11,090
+[SPEAKER_01]: And then they learn how <u>they</u> can programme them and make them move.
+
+837
+00:04:11,090 --> 00:04:11,130
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+838
+00:04:11,130 --> 00:04:11,270
+[SPEAKER_01]: And then they learn how they <u>can</u> programme them and make them move.
+
+839
+00:04:11,270 --> 00:04:11,330
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+840
+00:04:11,330 --> 00:04:11,830
+[SPEAKER_01]: And then they learn how they can <u>programme</u> them and make them move.
+
+841
+00:04:11,830 --> 00:04:11,870
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+842
+00:04:11,870 --> 00:04:12,070
+[SPEAKER_01]: And then they learn how they can programme <u>them</u> and make them move.
+
+843
+00:04:12,070 --> 00:04:12,150
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+844
+00:04:12,150 --> 00:04:12,250
+[SPEAKER_01]: And then they learn how they can programme them <u>and</u> make them move.
+
+845
+00:04:12,250 --> 00:04:12,311
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+846
+00:04:12,311 --> 00:04:12,471
+[SPEAKER_01]: And then they learn how they can programme them and <u>make</u> them move.
+
+847
+00:04:12,471 --> 00:04:12,511
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+848
+00:04:12,511 --> 00:04:12,631
+[SPEAKER_01]: And then they learn how they can programme them and make <u>them</u> move.
+
+849
+00:04:12,631 --> 00:04:12,671
+[SPEAKER_01]: And then they learn how they can programme them and make them move.
+
+850
+00:04:12,671 --> 00:04:13,051
+[SPEAKER_01]: And then they learn how they can programme them and make them <u>move.</u>
+
+851
+00:04:13,451 --> 00:04:13,751
+[SPEAKER_02]: <u>So</u> they learn a bit of coding?
+
+852
+00:04:13,751 --> 00:04:14,031
+[SPEAKER_02]: So they learn a bit of coding?
+
+853
+00:04:14,031 --> 00:04:14,211
+[SPEAKER_02]: So <u>they</u> learn a bit of coding?
+
+854
+00:04:14,211 --> 00:04:14,231
+[SPEAKER_02]: So they learn a bit of coding?
+
+855
+00:04:14,231 --> 00:04:14,452
+[SPEAKER_02]: So they <u>learn</u> a bit of coding?
+
+856
+00:04:14,452 --> 00:04:14,492
+[SPEAKER_02]: So they learn a bit of coding?
+
+857
+00:04:14,492 --> 00:04:14,532
+[SPEAKER_02]: So they learn <u>a</u> bit of coding?
+
+858
+00:04:14,532 --> 00:04:14,552
+[SPEAKER_02]: So they learn a bit of coding?
+
+859
+00:04:14,552 --> 00:04:14,712
+[SPEAKER_02]: So they learn a <u>bit</u> of coding?
+
+860
+00:04:14,712 --> 00:04:14,752
+[SPEAKER_02]: So they learn a bit of coding?
+
+861
+00:04:14,752 --> 00:04:14,812
+[SPEAKER_02]: So they learn a bit <u>of</u> coding?
+
+862
+00:04:14,812 --> 00:04:14,892
+[SPEAKER_02]: So they learn a bit of coding?
+
+863
+00:04:14,892 --> 00:04:15,332
+[SPEAKER_02]: So they learn a bit of <u>coding?</u>
+
+864
+00:04:15,532 --> 00:04:15,692
+[SPEAKER_01]: <u>They</u> do.
+
+865
+00:04:15,692 --> 00:04:15,712
+[SPEAKER_01]: They do.
+
+866
+00:04:15,712 --> 00:04:15,992
+[SPEAKER_01]: They <u>do.</u>
+
+867
+00:04:16,673 --> 00:04:16,833
+[SPEAKER_01]: <u>They</u> pick it up really quickly.
+
+868
+00:04:16,833 --> 00:04:16,873
+[SPEAKER_01]: They pick it up really quickly.
+
+869
+00:04:16,873 --> 00:04:17,013
+[SPEAKER_01]: They <u>pick</u> it up really quickly.
+
+870
+00:04:17,013 --> 00:04:17,073
+[SPEAKER_01]: They pick it up really quickly.
+
+871
+00:04:17,073 --> 00:04:17,153
+[SPEAKER_01]: They pick <u>it</u> up really quickly.
+
+872
+00:04:17,153 --> 00:04:17,253
+[SPEAKER_01]: They pick it up really quickly.
+
+873
+00:04:17,253 --> 00:04:17,333
+[SPEAKER_01]: They pick it <u>up</u> really quickly.
+
+874
+00:04:17,333 --> 00:04:17,413
+[SPEAKER_01]: They pick it up really quickly.
+
+875
+00:04:17,413 --> 00:04:17,753
+[SPEAKER_01]: They pick it up <u>really</u> quickly.
+
+876
+00:04:17,753 --> 00:04:17,813
+[SPEAKER_01]: They pick it up really quickly.
+
+877
+00:04:17,813 --> 00:04:18,293
+[SPEAKER_01]: They pick it up really <u>quickly.</u>
+
+878
+00:04:19,014 --> 00:04:19,234
+[SPEAKER_01]: <u>We're</u> there to help if they need it.
+
+879
+00:04:19,234 --> 00:04:19,274
+[SPEAKER_01]: We're there to help if they need it.
+
+880
+00:04:19,274 --> 00:04:19,554
+[SPEAKER_01]: We're <u>there</u> to help if they need it.
+
+881
+00:04:19,554 --> 00:04:19,614
+[SPEAKER_01]: We're there to help if they need it.
+
+882
+00:04:19,614 --> 00:04:19,694
+[SPEAKER_01]: We're there <u>to</u> help if they need it.
+
+883
+00:04:19,694 --> 00:04:19,754
+[SPEAKER_01]: We're there to help if they need it.
+
+884
+00:04:19,754 --> 00:04:19,974
+[SPEAKER_01]: We're there to <u>help</u> if they need it.
+
+885
+00:04:19,974 --> 00:04:20,074
+[SPEAKER_01]: We're there to help if they need it.
+
+886
+00:04:20,074 --> 00:04:20,154
+[SPEAKER_01]: We're there to help <u>if</u> they need it.
+
+887
+00:04:20,154 --> 00:04:20,194
+[SPEAKER_01]: We're there to help if they need it.
+
+888
+00:04:20,194 --> 00:04:20,335
+[SPEAKER_01]: We're there to help if <u>they</u> need it.
+
+889
+00:04:20,335 --> 00:04:20,375
+[SPEAKER_01]: We're there to help if they need it.
+
+890
+00:04:20,375 --> 00:04:20,655
+[SPEAKER_01]: We're there to help if they <u>need</u> it.
+
+891
+00:04:20,655 --> 00:04:20,715
+[SPEAKER_01]: We're there to help if they need it.
+
+892
+00:04:20,715 --> 00:04:20,795
+[SPEAKER_01]: We're there to help if they need <u>it.</u>
+
+893
+00:04:21,275 --> 00:04:21,495
+[SPEAKER_01]: <u>But</u> they learn from one another too.
+
+894
+00:04:21,495 --> 00:04:21,755
+[SPEAKER_01]: But they learn from one another too.
+
+895
+00:04:21,755 --> 00:04:21,915
+[SPEAKER_01]: But <u>they</u> learn from one another too.
+
+896
+00:04:21,915 --> 00:04:21,935
+[SPEAKER_01]: But they learn from one another too.
+
+897
+00:04:21,935 --> 00:04:22,155
+[SPEAKER_01]: But they <u>learn</u> from one another too.
+
+898
+00:04:22,155 --> 00:04:22,195
+[SPEAKER_01]: But they learn from one another too.
+
+899
+00:04:22,195 --> 00:04:22,336
+[SPEAKER_01]: But they learn <u>from</u> one another too.
+
+900
+00:04:22,336 --> 00:04:22,416
+[SPEAKER_01]: But they learn from one another too.
+
+901
+00:04:22,416 --> 00:04:22,516
+[SPEAKER_01]: But they learn from <u>one</u> another too.
+
+902
+00:04:22,516 --> 00:04:22,556
+[SPEAKER_01]: But they learn from one another too.
+
+903
+00:04:22,556 --> 00:04:22,836
+[SPEAKER_01]: But they learn from one <u>another</u> too.
+
+904
+00:04:22,836 --> 00:04:22,896
+[SPEAKER_01]: But they learn from one another too.
+
+905
+00:04:22,896 --> 00:04:23,156
+[SPEAKER_01]: But they learn from one another <u>too.</u>
+
+906
+00:04:23,516 --> 00:04:23,836
+[SPEAKER_02]: <u>Right.</u>
+
+907
+00:04:24,877 --> 00:04:25,037
+[SPEAKER_02]: <u>And</u> do they have competitions too?
+
+908
+00:04:25,037 --> 00:04:25,317
+[SPEAKER_02]: And do they have competitions too?
+
+909
+00:04:25,317 --> 00:04:25,417
+[SPEAKER_02]: And <u>do</u> they have competitions too?
+
+910
+00:04:25,417 --> 00:04:25,457
+[SPEAKER_02]: And do they have competitions too?
+
+911
+00:04:25,457 --> 00:04:25,597
+[SPEAKER_02]: And do <u>they</u> have competitions too?
+
+912
+00:04:25,597 --> 00:04:25,637
+[SPEAKER_02]: And do they have competitions too?
+
+913
+00:04:25,637 --> 00:04:25,797
+[SPEAKER_02]: And do they <u>have</u> competitions too?
+
+914
+00:04:25,797 --> 00:04:25,877
+[SPEAKER_02]: And do they have competitions too?
+
+915
+00:04:25,877 --> 00:04:26,718
+[SPEAKER_02]: And do they have <u>competitions</u> too?
+
+916
+00:04:26,718 --> 00:04:26,818
+[SPEAKER_02]: And do they have competitions too?
+
+917
+00:04:26,818 --> 00:04:26,958
+[SPEAKER_02]: And do they have competitions <u>too?</u>
+
+918
+00:04:27,446 --> 00:04:27,807
+[SPEAKER_01]: <u>Yes,</u> with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+919
+00:04:27,807 --> 00:04:28,327
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+920
+00:04:28,327 --> 00:04:28,487
+[SPEAKER_01]: Yes, <u>with</u> the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+921
+00:04:28,487 --> 00:04:28,527
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+922
+00:04:28,527 --> 00:04:28,608
+[SPEAKER_01]: Yes, with <u>the</u> junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+923
+00:04:28,608 --> 00:04:28,668
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+924
+00:04:28,668 --> 00:04:29,048
+[SPEAKER_01]: Yes, with the <u>junior</u> engineers it's to use recycled materials like card and wood to build a bridge.
+
+925
+00:04:29,048 --> 00:04:29,168
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+926
+00:04:29,168 --> 00:04:29,789
+[SPEAKER_01]: Yes, with the junior <u>engineers</u> it's to use recycled materials like card and wood to build a bridge.
+
+927
+00:04:29,789 --> 00:04:30,029
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+928
+00:04:30,029 --> 00:04:30,170
+[SPEAKER_01]: Yes, with the junior engineers <u>it's</u> to use recycled materials like card and wood to build a bridge.
+
+929
+00:04:30,170 --> 00:04:30,230
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+930
+00:04:30,230 --> 00:04:30,330
+[SPEAKER_01]: Yes, with the junior engineers it's <u>to</u> use recycled materials like card and wood to build a bridge.
+
+931
+00:04:30,330 --> 00:04:30,510
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+932
+00:04:30,510 --> 00:04:30,650
+[SPEAKER_01]: Yes, with the junior engineers it's to <u>use</u> recycled materials like card and wood to build a bridge.
+
+933
+00:04:30,650 --> 00:04:30,750
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+934
+00:04:30,750 --> 00:04:31,411
+[SPEAKER_01]: Yes, with the junior engineers it's to use <u>recycled</u> materials like card and wood to build a bridge.
+
+935
+00:04:31,411 --> 00:04:31,471
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+936
+00:04:31,471 --> 00:04:32,252
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled <u>materials</u> like card and wood to build a bridge.
+
+937
+00:04:32,252 --> 00:04:32,372
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+938
+00:04:32,372 --> 00:04:32,633
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials <u>like</u> card and wood to build a bridge.
+
+939
+00:04:32,633 --> 00:04:32,813
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+940
+00:04:32,813 --> 00:04:33,293
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like <u>card</u> and wood to build a bridge.
+
+941
+00:04:33,293 --> 00:04:33,354
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+942
+00:04:33,354 --> 00:04:33,454
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card <u>and</u> wood to build a bridge.
+
+943
+00:04:33,454 --> 00:04:33,534
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+944
+00:04:33,534 --> 00:04:33,834
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and <u>wood</u> to build a bridge.
+
+945
+00:04:33,834 --> 00:04:34,135
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+946
+00:04:34,135 --> 00:04:34,215
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood <u>to</u> build a bridge.
+
+947
+00:04:34,215 --> 00:04:34,255
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+948
+00:04:34,255 --> 00:04:34,515
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to <u>build</u> a bridge.
+
+949
+00:04:34,515 --> 00:04:34,555
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+950
+00:04:34,555 --> 00:04:34,595
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build <u>a</u> bridge.
+
+951
+00:04:34,595 --> 00:04:34,655
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge.
+
+952
+00:04:34,655 --> 00:04:35,096
+[SPEAKER_01]: Yes, with the junior engineers it's to use recycled materials like card and wood to build a <u>bridge.</u>
+
+953
+00:04:35,877 --> 00:04:36,057
+[SPEAKER_01]: <u>And</u> the longest one gets a prize.
+
+954
+00:04:36,057 --> 00:04:36,157
+[SPEAKER_01]: And the longest one gets a prize.
+
+955
+00:04:36,157 --> 00:04:36,277
+[SPEAKER_01]: And <u>the</u> longest one gets a prize.
+
+956
+00:04:36,277 --> 00:04:36,357
+[SPEAKER_01]: And the longest one gets a prize.
+
+957
+00:04:36,357 --> 00:04:36,818
+[SPEAKER_01]: And the <u>longest</u> one gets a prize.
+
+958
+00:04:36,818 --> 00:04:36,998
+[SPEAKER_01]: And the longest one gets a prize.
+
+959
+00:04:36,998 --> 00:04:37,158
+[SPEAKER_01]: And the longest <u>one</u> gets a prize.
+
+960
+00:04:37,158 --> 00:04:37,258
+[SPEAKER_01]: And the longest one gets a prize.
+
+961
+00:04:37,258 --> 00:04:37,479
+[SPEAKER_01]: And the longest one <u>gets</u> a prize.
+
+962
+00:04:37,479 --> 00:04:37,559
+[SPEAKER_01]: And the longest one gets a prize.
+
+963
+00:04:37,559 --> 00:04:37,579
+[SPEAKER_01]: And the longest one gets <u>a</u> prize.
+
+964
+00:04:37,579 --> 00:04:37,639
+[SPEAKER_01]: And the longest one gets a prize.
+
+965
+00:04:37,639 --> 00:04:38,120
+[SPEAKER_01]: And the longest one gets a <u>prize.</u>
+
+966
+00:04:38,140 --> 00:04:38,660
+[SPEAKER_02]: <u>That</u> sounds fun.
+
+967
+00:04:38,660 --> 00:04:38,700
+[SPEAKER_02]: That sounds fun.
+
+968
+00:04:38,700 --> 00:04:39,021
+[SPEAKER_02]: That <u>sounds</u> fun.
+
+969
+00:04:39,021 --> 00:04:39,161
+[SPEAKER_02]: That sounds fun.
+
+970
+00:04:39,161 --> 00:04:39,481
+[SPEAKER_02]: That sounds <u>fun.</u>
+
+971
+00:04:39,501 --> 00:04:39,521
+[SPEAKER_02]: <u>I</u> wouldn't mind doing that myself.
+
+972
+00:04:39,521 --> 00:04:39,862
+[SPEAKER_02]: I wouldn't mind doing that myself.
+
+973
+00:04:39,862 --> 00:04:40,102
+[SPEAKER_02]: I <u>wouldn't</u> mind doing that myself.
+
+974
+00:04:40,102 --> 00:04:40,182
+[SPEAKER_02]: I wouldn't mind doing that myself.
+
+975
+00:04:40,182 --> 00:04:40,402
+[SPEAKER_02]: I wouldn't <u>mind</u> doing that myself.
+
+976
+00:04:40,402 --> 00:04:40,442
+[SPEAKER_02]: I wouldn't mind doing that myself.
+
+977
+00:04:40,442 --> 00:04:40,643
+[SPEAKER_02]: I wouldn't mind <u>doing</u> that myself.
+
+978
+00:04:40,643 --> 00:04:40,683
+[SPEAKER_02]: I wouldn't mind doing that myself.
+
+979
+00:04:40,683 --> 00:04:40,843
+[SPEAKER_02]: I wouldn't mind doing <u>that</u> myself.
+
+980
+00:04:40,843 --> 00:04:40,903
+[SPEAKER_02]: I wouldn't mind doing that myself.
+
+981
+00:04:40,903 --> 00:04:41,364
+[SPEAKER_02]: I wouldn't mind doing that <u>myself.</u>
+
+982
+00:04:41,980 --> 00:04:42,280
+[SPEAKER_01]: <u>Then</u> they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+983
+00:04:42,280 --> 00:04:42,400
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+984
+00:04:42,400 --> 00:04:42,581
+[SPEAKER_01]: Then <u>they</u> have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+985
+00:04:42,581 --> 00:04:42,621
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+986
+00:04:42,621 --> 00:04:42,781
+[SPEAKER_01]: Then they <u>have</u> something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+987
+00:04:42,781 --> 00:04:42,901
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+988
+00:04:42,901 --> 00:04:43,361
+[SPEAKER_01]: Then they have <u>something</u> a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+989
+00:04:43,361 --> 00:04:43,421
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+990
+00:04:43,421 --> 00:04:43,441
+[SPEAKER_01]: Then they have something <u>a</u> bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+991
+00:04:43,441 --> 00:04:43,481
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+992
+00:04:43,481 --> 00:04:43,661
+[SPEAKER_01]: Then they have something a <u>bit</u> different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+993
+00:04:43,661 --> 00:04:43,741
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+994
+00:04:43,741 --> 00:04:44,202
+[SPEAKER_01]: Then they have something a bit <u>different,</u> which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+995
+00:04:44,202 --> 00:04:44,682
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+996
+00:04:44,682 --> 00:04:44,942
+[SPEAKER_01]: Then they have something a bit different, <u>which</u> is to think up an idea for a five-minute movie and then film it using special animation software.
+
+997
+00:04:44,942 --> 00:04:45,042
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+998
+00:04:45,042 --> 00:04:45,143
+[SPEAKER_01]: Then they have something a bit different, which <u>is</u> to think up an idea for a five-minute movie and then film it using special animation software.
+
+999
+00:04:45,143 --> 00:04:45,183
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1000
+00:04:45,183 --> 00:04:45,283
+[SPEAKER_01]: Then they have something a bit different, which is <u>to</u> think up an idea for a five-minute movie and then film it using special animation software.
+
+1001
+00:04:45,283 --> 00:04:45,343
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1002
+00:04:45,343 --> 00:04:45,583
+[SPEAKER_01]: Then they have something a bit different, which is to <u>think</u> up an idea for a five-minute movie and then film it using special animation software.
+
+1003
+00:04:45,583 --> 00:04:45,683
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1004
+00:04:45,683 --> 00:04:45,803
+[SPEAKER_01]: Then they have something a bit different, which is to think <u>up</u> an idea for a five-minute movie and then film it using special animation software.
+
+1005
+00:04:45,803 --> 00:04:45,863
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1006
+00:04:45,863 --> 00:04:45,943
+[SPEAKER_01]: Then they have something a bit different, which is to think up <u>an</u> idea for a five-minute movie and then film it using special animation software.
+
+1007
+00:04:45,943 --> 00:04:46,063
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1008
+00:04:46,063 --> 00:04:46,464
+[SPEAKER_01]: Then they have something a bit different, which is to think up an <u>idea</u> for a five-minute movie and then film it using special animation software.
+
+1009
+00:04:46,464 --> 00:04:46,524
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1010
+00:04:46,524 --> 00:04:46,704
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea <u>for</u> a five-minute movie and then film it using special animation software.
+
+1011
+00:04:46,704 --> 00:04:46,744
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1012
+00:04:46,744 --> 00:04:46,784
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for <u>a</u> five-minute movie and then film it using special animation software.
+
+1013
+00:04:46,784 --> 00:04:46,904
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1014
+00:04:46,904 --> 00:04:47,604
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a <u>five-minute</u> movie and then film it using special animation software.
+
+1015
+00:04:47,604 --> 00:04:47,725
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1016
+00:04:47,725 --> 00:04:48,285
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute <u>movie</u> and then film it using special animation software.
+
+1017
+00:04:48,285 --> 00:04:48,645
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1018
+00:04:48,645 --> 00:04:48,745
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie <u>and</u> then film it using special animation software.
+
+1019
+00:04:48,745 --> 00:04:48,785
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1020
+00:04:48,785 --> 00:04:48,986
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and <u>then</u> film it using special animation software.
+
+1021
+00:04:48,986 --> 00:04:49,086
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1022
+00:04:49,086 --> 00:04:49,386
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then <u>film</u> it using special animation software.
+
+1023
+00:04:49,386 --> 00:04:49,466
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1024
+00:04:49,466 --> 00:04:49,586
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film <u>it</u> using special animation software.
+
+1025
+00:04:49,586 --> 00:04:50,186
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1026
+00:04:50,186 --> 00:04:50,447
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it <u>using</u> special animation software.
+
+1027
+00:04:50,447 --> 00:04:50,587
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1028
+00:04:50,587 --> 00:04:51,007
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using <u>special</u> animation software.
+
+1029
+00:04:51,007 --> 00:04:51,247
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1030
+00:04:51,247 --> 00:04:51,888
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special <u>animation</u> software.
+
+1031
+00:04:51,888 --> 00:04:51,988
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation software.
+
+1032
+00:04:51,988 --> 00:04:52,668
+[SPEAKER_01]: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it using special animation <u>software.</u>
+
+1033
+00:04:53,169 --> 00:04:53,409
+[SPEAKER_01]: <u>You'd</u> be amazed what they come up with!
+
+1034
+00:04:53,409 --> 00:04:53,429
+[SPEAKER_01]: You'd be amazed what they come up with!
+
+1035
+00:04:53,429 --> 00:04:53,549
+[SPEAKER_01]: You'd <u>be</u> amazed what they come up with!
+
+1036
+00:04:53,549 --> 00:04:53,649
+[SPEAKER_01]: You'd be amazed what they come up with!
+
+1037
+00:04:53,649 --> 00:04:54,210
+[SPEAKER_01]: You'd be <u>amazed</u> what they come up with!
+
+1038
+00:04:54,210 --> 00:04:54,270
+[SPEAKER_01]: You'd be amazed what they come up with!
+
+1039
+00:04:54,270 --> 00:04:54,430
+[SPEAKER_01]: You'd be amazed <u>what</u> they come up with!
+
+1040
+00:04:54,430 --> 00:04:54,470
+[SPEAKER_01]: You'd be amazed what they come up with!
+
+1041
+00:04:54,470 --> 00:04:54,630
+[SPEAKER_01]: You'd be amazed what <u>they</u> come up with!
+
+1042
+00:04:54,630 --> 00:04:54,670
+[SPEAKER_01]: You'd be amazed what they come up with!
+
+1043
+00:04:54,670 --> 00:04:54,830
+[SPEAKER_01]: You'd be amazed what they <u>come</u> up with!
+
+1044
+00:04:54,830 --> 00:04:54,910
+[SPEAKER_01]: You'd be amazed what they come up with!
+
+1045
+00:04:54,910 --> 00:04:54,990
+[SPEAKER_01]: You'd be amazed what they come <u>up</u> with!
+
+1046
+00:04:54,990 --> 00:04:55,050
+[SPEAKER_01]: You'd be amazed what they come up with!
+
+1047
+00:04:55,050 --> 00:04:55,291
+[SPEAKER_01]: You'd be amazed what they come up <u>with!</u>
+
+1048
+00:04:55,631 --> 00:04:55,771
+[SPEAKER_02]: <u>And</u> of course that's something they can put on their phone and take home to show all their friends.
+
+1049
+00:04:55,771 --> 00:04:55,831
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1050
+00:04:55,831 --> 00:04:55,891
+[SPEAKER_02]: And <u>of</u> course that's something they can put on their phone and take home to show all their friends.
+
+1051
+00:04:55,891 --> 00:04:55,991
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1052
+00:04:55,991 --> 00:04:56,291
+[SPEAKER_02]: And of <u>course</u> that's something they can put on their phone and take home to show all their friends.
+
+1053
+00:04:56,291 --> 00:04:56,451
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1054
+00:04:56,451 --> 00:04:56,692
+[SPEAKER_02]: And of course <u>that's</u> something they can put on their phone and take home to show all their friends.
+
+1055
+00:04:56,692 --> 00:04:56,752
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1056
+00:04:56,752 --> 00:04:57,112
+[SPEAKER_02]: And of course that's <u>something</u> they can put on their phone and take home to show all their friends.
+
+1057
+00:04:57,112 --> 00:04:57,152
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1058
+00:04:57,152 --> 00:04:57,292
+[SPEAKER_02]: And of course that's something <u>they</u> can put on their phone and take home to show all their friends.
+
+1059
+00:04:57,292 --> 00:04:57,332
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1060
+00:04:57,332 --> 00:04:57,452
+[SPEAKER_02]: And of course that's something they <u>can</u> put on their phone and take home to show all their friends.
+
+1061
+00:04:57,452 --> 00:04:57,512
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1062
+00:04:57,512 --> 00:04:57,652
+[SPEAKER_02]: And of course that's something they can <u>put</u> on their phone and take home to show all their friends.
+
+1063
+00:04:57,652 --> 00:04:57,732
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1064
+00:04:57,732 --> 00:04:57,792
+[SPEAKER_02]: And of course that's something they can put <u>on</u> their phone and take home to show all their friends.
+
+1065
+00:04:57,792 --> 00:04:57,832
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1066
+00:04:57,832 --> 00:04:58,013
+[SPEAKER_02]: And of course that's something they can put on <u>their</u> phone and take home to show all their friends.
+
+1067
+00:04:58,013 --> 00:04:58,073
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1068
+00:04:58,073 --> 00:04:58,393
+[SPEAKER_02]: And of course that's something they can put on their <u>phone</u> and take home to show all their friends.
+
+1069
+00:04:58,393 --> 00:04:58,953
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1070
+00:04:58,953 --> 00:04:59,073
+[SPEAKER_02]: And of course that's something they can put on their phone <u>and</u> take home to show all their friends.
+
+1071
+00:04:59,073 --> 00:04:59,134
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1072
+00:04:59,134 --> 00:04:59,354
+[SPEAKER_02]: And of course that's something they can put on their phone and <u>take</u> home to show all their friends.
+
+1073
+00:04:59,354 --> 00:04:59,414
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1074
+00:04:59,414 --> 00:04:59,674
+[SPEAKER_02]: And of course that's something they can put on their phone and take <u>home</u> to show all their friends.
+
+1075
+00:04:59,674 --> 00:04:59,754
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1076
+00:04:59,754 --> 00:04:59,854
+[SPEAKER_02]: And of course that's something they can put on their phone and take home <u>to</u> show all their friends.
+
+1077
+00:04:59,854 --> 00:04:59,914
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1078
+00:04:59,914 --> 00:05:00,094
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to <u>show</u> all their friends.
+
+1079
+00:05:00,094 --> 00:05:00,114
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1080
+00:05:00,114 --> 00:05:00,214
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show <u>all</u> their friends.
+
+1081
+00:05:00,214 --> 00:05:00,254
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1082
+00:05:00,254 --> 00:05:00,395
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all <u>their</u> friends.
+
+1083
+00:05:00,395 --> 00:05:00,435
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their friends.
+
+1084
+00:05:00,435 --> 00:05:00,775
+[SPEAKER_02]: And of course that's something they can put on their phone and take home to show all their <u>friends.</u>
+
+1085
+00:05:01,255 --> 00:05:02,055
+[SPEAKER_01]: <u>Exactly.</u>
+
+1086
+00:05:02,756 --> 00:05:02,896
+[SPEAKER_01]: <u>And</u> then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1087
+00:05:02,896 --> 00:05:02,976
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1088
+00:05:02,976 --> 00:05:03,276
+[SPEAKER_01]: And <u>then</u> they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1089
+00:05:03,276 --> 00:05:03,396
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1090
+00:05:03,396 --> 00:05:03,576
+[SPEAKER_01]: And then <u>they</u> also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1091
+00:05:03,576 --> 00:05:03,736
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1092
+00:05:03,736 --> 00:05:04,076
+[SPEAKER_01]: And then they <u>also</u> build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1093
+00:05:04,076 --> 00:05:04,136
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1094
+00:05:04,136 --> 00:05:04,396
+[SPEAKER_01]: And then they also <u>build</u> a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1095
+00:05:04,396 --> 00:05:04,436
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1096
+00:05:04,436 --> 00:05:04,476
+[SPEAKER_01]: And then they also build <u>a</u> robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1097
+00:05:04,476 --> 00:05:04,556
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1098
+00:05:04,556 --> 00:05:05,077
+[SPEAKER_01]: And then they also build a <u>robot</u> in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1099
+00:05:05,077 --> 00:05:05,197
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1100
+00:05:05,197 --> 00:05:05,277
+[SPEAKER_01]: And then they also build a robot <u>in</u> the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1101
+00:05:05,277 --> 00:05:05,297
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1102
+00:05:05,297 --> 00:05:05,397
+[SPEAKER_01]: And then they also build a robot in <u>the</u> shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1103
+00:05:05,397 --> 00:05:05,457
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1104
+00:05:05,457 --> 00:05:05,697
+[SPEAKER_01]: And then they also build a robot in the <u>shape</u> of a human and they decorate it and program it so that it can move its arms and legs.
+
+1105
+00:05:05,697 --> 00:05:05,737
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1106
+00:05:05,737 --> 00:05:05,817
+[SPEAKER_01]: And then they also build a robot in the shape <u>of</u> a human and they decorate it and program it so that it can move its arms and legs.
+
+1107
+00:05:05,817 --> 00:05:05,857
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1108
+00:05:05,857 --> 00:05:05,877
+[SPEAKER_01]: And then they also build a robot in the shape of <u>a</u> human and they decorate it and program it so that it can move its arms and legs.
+
+1109
+00:05:05,877 --> 00:05:05,937
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1110
+00:05:05,937 --> 00:05:06,377
+[SPEAKER_01]: And then they also build a robot in the shape of a <u>human</u> and they decorate it and program it so that it can move its arms and legs.
+
+1111
+00:05:06,377 --> 00:05:06,977
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1112
+00:05:06,977 --> 00:05:07,117
+[SPEAKER_01]: And then they also build a robot in the shape of a human <u>and</u> they decorate it and program it so that it can move its arms and legs.
+
+1113
+00:05:07,117 --> 00:05:07,197
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1114
+00:05:07,197 --> 00:05:07,337
+[SPEAKER_01]: And then they also build a robot in the shape of a human and <u>they</u> decorate it and program it so that it can move its arms and legs.
+
+1115
+00:05:07,337 --> 00:05:07,377
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1116
+00:05:07,377 --> 00:05:08,058
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they <u>decorate</u> it and program it so that it can move its arms and legs.
+
+1117
+00:05:08,058 --> 00:05:08,198
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1118
+00:05:08,198 --> 00:05:08,298
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate <u>it</u> and program it so that it can move its arms and legs.
+
+1119
+00:05:08,298 --> 00:05:08,758
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1120
+00:05:08,758 --> 00:05:08,878
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it <u>and</u> program it so that it can move its arms and legs.
+
+1121
+00:05:08,878 --> 00:05:08,978
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1122
+00:05:08,978 --> 00:05:09,498
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and <u>program</u> it so that it can move its arms and legs.
+
+1123
+00:05:09,498 --> 00:05:09,558
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1124
+00:05:09,558 --> 00:05:09,638
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program <u>it</u> so that it can move its arms and legs.
+
+1125
+00:05:09,638 --> 00:05:09,718
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1126
+00:05:09,718 --> 00:05:09,858
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it <u>so</u> that it can move its arms and legs.
+
+1127
+00:05:09,858 --> 00:05:09,878
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1128
+00:05:09,878 --> 00:05:10,018
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so <u>that</u> it can move its arms and legs.
+
+1129
+00:05:10,018 --> 00:05:10,078
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1130
+00:05:10,078 --> 00:05:10,138
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that <u>it</u> can move its arms and legs.
+
+1131
+00:05:10,138 --> 00:05:10,159
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1132
+00:05:10,159 --> 00:05:10,319
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it <u>can</u> move its arms and legs.
+
+1133
+00:05:10,319 --> 00:05:10,379
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1134
+00:05:10,379 --> 00:05:10,639
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can <u>move</u> its arms and legs.
+
+1135
+00:05:10,639 --> 00:05:10,699
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1136
+00:05:10,699 --> 00:05:10,819
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move <u>its</u> arms and legs.
+
+1137
+00:05:10,819 --> 00:05:10,959
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1138
+00:05:10,959 --> 00:05:11,139
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its <u>arms</u> and legs.
+
+1139
+00:05:11,139 --> 00:05:11,199
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1140
+00:05:11,199 --> 00:05:11,299
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms <u>and</u> legs.
+
+1141
+00:05:11,299 --> 00:05:11,339
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and legs.
+
+1142
+00:05:11,339 --> 00:05:11,699
+[SPEAKER_01]: And then they also build a robot in the shape of a human and they decorate it and program it so that it can move its arms and <u>legs.</u>
+
+1143
+00:05:11,939 --> 00:05:12,599
+[SPEAKER_02]: <u>Perfect.</u>
+
+1144
+00:05:13,500 --> 00:05:13,840
+[SPEAKER_02]: <u>So</u> is it the same price as the tiny engineers?
+
+1145
+00:05:13,840 --> 00:05:14,080
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1146
+00:05:14,080 --> 00:05:14,180
+[SPEAKER_02]: So <u>is</u> it the same price as the tiny engineers?
+
+1147
+00:05:14,180 --> 00:05:14,240
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1148
+00:05:14,240 --> 00:05:14,320
+[SPEAKER_02]: So is <u>it</u> the same price as the tiny engineers?
+
+1149
+00:05:14,320 --> 00:05:14,360
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1150
+00:05:14,360 --> 00:05:14,440
+[SPEAKER_02]: So is it <u>the</u> same price as the tiny engineers?
+
+1151
+00:05:14,440 --> 00:05:14,480
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1152
+00:05:14,480 --> 00:05:14,700
+[SPEAKER_02]: So is it the <u>same</u> price as the tiny engineers?
+
+1153
+00:05:14,700 --> 00:05:14,780
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1154
+00:05:14,780 --> 00:05:15,120
+[SPEAKER_02]: So is it the same <u>price</u> as the tiny engineers?
+
+1155
+00:05:15,120 --> 00:05:15,180
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1156
+00:05:15,180 --> 00:05:15,280
+[SPEAKER_02]: So is it the same price <u>as</u> the tiny engineers?
+
+1157
+00:05:15,280 --> 00:05:15,360
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1158
+00:05:15,360 --> 00:05:15,461
+[SPEAKER_02]: So is it the same price as <u>the</u> tiny engineers?
+
+1159
+00:05:15,461 --> 00:05:15,501
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1160
+00:05:15,501 --> 00:05:15,821
+[SPEAKER_02]: So is it the same price as the <u>tiny</u> engineers?
+
+1161
+00:05:15,821 --> 00:05:15,881
+[SPEAKER_02]: So is it the same price as the tiny engineers?
+
+1162
+00:05:15,881 --> 00:05:16,361
+[SPEAKER_02]: So is it the same price as the tiny <u>engineers?</u>
+
+1163
+00:05:17,148 --> 00:05:17,348
+[SPEAKER_01]: <u>It's</u> just a bit more, £50 for the five weeks.
+
+1164
+00:05:17,348 --> 00:05:17,448
+[SPEAKER_01]: It's just a bit more, £50 for the five weeks.
+
+1165
+00:05:17,448 --> 00:05:17,668
+[SPEAKER_01]: It's <u>just</u> a bit more, £50 for the five weeks.
+
+1166
+00:05:17,668 --> 00:05:17,708
+[SPEAKER_01]: It's just a bit more, £50 for the five weeks.
+
+1167
+00:05:17,708 --> 00:05:17,748
+[SPEAKER_01]: It's just <u>a</u> bit more, £50 for the five weeks.
+
+1168
+00:05:17,748 --> 00:05:17,768
+[SPEAKER_01]: It's just a bit more, £50 for the five weeks.
+
+1169
+00:05:17,768 --> 00:05:17,949
+[SPEAKER_01]: It's just a <u>bit</u> more, £50 for the five weeks.
+
+1170
+00:05:17,949 --> 00:05:18,049
+[SPEAKER_01]: It's just a bit more, £50 for the five weeks.
+
+1171
+00:05:18,049 --> 00:05:18,309
+[SPEAKER_01]: It's just a bit <u>more,</u> £50 for the five weeks.
+
+1172
+00:05:18,309 --> 00:05:18,989
+[SPEAKER_01]: It's just a bit more, £50 for the five weeks.
+
+1173
+00:05:18,989 --> 00:05:19,830
+[SPEAKER_01]: It's just a bit more, £50 <u>for</u> the five weeks.
+
+1174
+00:05:19,830 --> 00:05:19,850
+[SPEAKER_01]: It's just a bit more, £50 for the five weeks.
+
+1175
+00:05:19,850 --> 00:05:19,930
+[SPEAKER_01]: It's just a bit more, £50 for <u>the</u> five weeks.
+
+1176
+00:05:19,930 --> 00:05:19,970
+[SPEAKER_01]: It's just a bit more, £50 for the five weeks.
+
+1177
+00:05:19,970 --> 00:05:20,290
+[SPEAKER_01]: It's just a bit more, £50 for the <u>five</u> weeks.
+
+1178
+00:05:20,290 --> 00:05:20,370
+[SPEAKER_01]: It's just a bit more, £50 for the five weeks.
+
+1179
+00:05:20,370 --> 00:05:20,770
+[SPEAKER_01]: It's just a bit more, £50 for the five <u>weeks.</u>
+
+1180
+00:05:21,110 --> 00:05:21,270
+[SPEAKER_02]: <u>And</u> are the classes on a Monday too?
+
+1181
+00:05:21,270 --> 00:05:21,371
+[SPEAKER_02]: And are the classes on a Monday too?
+
+1182
+00:05:21,371 --> 00:05:21,471
+[SPEAKER_02]: And <u>are</u> the classes on a Monday too?
+
+1183
+00:05:21,471 --> 00:05:21,491
+[SPEAKER_02]: And are the classes on a Monday too?
+
+1184
+00:05:21,491 --> 00:05:21,591
+[SPEAKER_02]: And are <u>the</u> classes on a Monday too?
+
+1185
+00:05:21,591 --> 00:05:21,631
+[SPEAKER_02]: And are the classes on a Monday too?
+
+1186
+00:05:21,631 --> 00:05:22,091
+[SPEAKER_02]: And are the <u>classes</u> on a Monday too?
+
+1187
+00:05:22,091 --> 00:05:22,191
+[SPEAKER_02]: And are the classes on a Monday too?
+
+1188
+00:05:22,191 --> 00:05:22,271
+[SPEAKER_02]: And are the classes <u>on</u> a Monday too?
+
+1189
+00:05:22,271 --> 00:05:22,311
+[SPEAKER_02]: And are the classes on a Monday too?
+
+1190
+00:05:22,311 --> 00:05:22,351
+[SPEAKER_02]: And are the classes on <u>a</u> Monday too?
+
+1191
+00:05:22,351 --> 00:05:22,391
+[SPEAKER_02]: And are the classes on a Monday too?
+
+1192
+00:05:22,391 --> 00:05:22,771
+[SPEAKER_02]: And are the classes on a <u>Monday</u> too?
+
+1193
+00:05:22,771 --> 00:05:22,831
+[SPEAKER_02]: And are the classes on a Monday too?
+
+1194
+00:05:22,831 --> 00:05:23,112
+[SPEAKER_02]: And are the classes on a Monday <u>too?</u>
+
+1195
+00:05:23,552 --> 00:05:23,752
+[SPEAKER_01]: <u>They</u> used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1196
+00:05:23,752 --> 00:05:23,852
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1197
+00:05:23,852 --> 00:05:24,072
+[SPEAKER_01]: They <u>used</u> to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1198
+00:05:24,072 --> 00:05:24,112
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1199
+00:05:24,112 --> 00:05:24,212
+[SPEAKER_01]: They used <u>to</u> be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1200
+00:05:24,212 --> 00:05:24,252
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1201
+00:05:24,252 --> 00:05:24,432
+[SPEAKER_01]: They used to <u>be,</u> but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1202
+00:05:24,432 --> 00:05:24,833
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1203
+00:05:24,833 --> 00:05:24,973
+[SPEAKER_01]: They used to be, <u>but</u> we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1204
+00:05:24,973 --> 00:05:25,113
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1205
+00:05:25,113 --> 00:05:25,273
+[SPEAKER_01]: They used to be, but <u>we</u> found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1206
+00:05:25,273 --> 00:05:25,313
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1207
+00:05:25,313 --> 00:05:25,573
+[SPEAKER_01]: They used to be, but we <u>found</u> it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1208
+00:05:25,573 --> 00:05:25,593
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1209
+00:05:25,593 --> 00:05:25,633
+[SPEAKER_01]: They used to be, but we found <u>it</u> didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1210
+00:05:25,633 --> 00:05:25,793
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1211
+00:05:25,793 --> 00:05:26,053
+[SPEAKER_01]: They used to be, but we found it <u>didn't</u> give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1212
+00:05:26,053 --> 00:05:26,113
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1213
+00:05:26,113 --> 00:05:26,293
+[SPEAKER_01]: They used to be, but we found it didn't <u>give</u> our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1214
+00:05:26,293 --> 00:05:26,413
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1215
+00:05:26,413 --> 00:05:26,533
+[SPEAKER_01]: They used to be, but we found it didn't give <u>our</u> staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1216
+00:05:26,533 --> 00:05:26,614
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1217
+00:05:26,614 --> 00:05:27,014
+[SPEAKER_01]: They used to be, but we found it didn't give our <u>staff</u> enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1218
+00:05:27,014 --> 00:05:27,114
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1219
+00:05:27,114 --> 00:05:27,374
+[SPEAKER_01]: They used to be, but we found it didn't give our staff <u>enough</u> time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1220
+00:05:27,374 --> 00:05:27,454
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1221
+00:05:27,454 --> 00:05:27,714
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough <u>time</u> to clear up after the first workshop, so we moved them to Wednesdays.
+
+1222
+00:05:27,714 --> 00:05:27,754
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1223
+00:05:27,754 --> 00:05:27,854
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time <u>to</u> clear up after the first workshop, so we moved them to Wednesdays.
+
+1224
+00:05:27,854 --> 00:05:27,954
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1225
+00:05:27,954 --> 00:05:28,234
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to <u>clear</u> up after the first workshop, so we moved them to Wednesdays.
+
+1226
+00:05:28,234 --> 00:05:28,355
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1227
+00:05:28,355 --> 00:05:28,435
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear <u>up</u> after the first workshop, so we moved them to Wednesdays.
+
+1228
+00:05:28,435 --> 00:05:28,635
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1229
+00:05:28,635 --> 00:05:28,835
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up <u>after</u> the first workshop, so we moved them to Wednesdays.
+
+1230
+00:05:28,835 --> 00:05:28,875
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1231
+00:05:28,875 --> 00:05:28,955
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after <u>the</u> first workshop, so we moved them to Wednesdays.
+
+1232
+00:05:28,955 --> 00:05:29,035
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1233
+00:05:29,035 --> 00:05:29,375
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the <u>first</u> workshop, so we moved them to Wednesdays.
+
+1234
+00:05:29,375 --> 00:05:29,455
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1235
+00:05:29,455 --> 00:05:30,015
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first <u>workshop,</u> so we moved them to Wednesdays.
+
+1236
+00:05:30,015 --> 00:05:30,516
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1237
+00:05:30,516 --> 00:05:30,796
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, <u>so</u> we moved them to Wednesdays.
+
+1238
+00:05:30,796 --> 00:05:31,016
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1239
+00:05:31,016 --> 00:05:31,176
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so <u>we</u> moved them to Wednesdays.
+
+1240
+00:05:31,176 --> 00:05:31,216
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1241
+00:05:31,216 --> 00:05:31,516
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we <u>moved</u> them to Wednesdays.
+
+1242
+00:05:31,516 --> 00:05:31,596
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1243
+00:05:31,596 --> 00:05:31,736
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved <u>them</u> to Wednesdays.
+
+1244
+00:05:31,736 --> 00:05:31,797
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1245
+00:05:31,797 --> 00:05:31,937
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them <u>to</u> Wednesdays.
+
+1246
+00:05:31,937 --> 00:05:31,977
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.
+
+1247
+00:05:31,977 --> 00:05:32,757
+[SPEAKER_01]: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to <u>Wednesdays.</u>
+
+1248
+00:05:33,477 --> 00:05:33,598
+[SPEAKER_01]: <u>The</u> classes are held in the morning from 10 to 11.
+
+1249
+00:05:33,598 --> 00:05:33,618
+[SPEAKER_01]: The classes are held in the morning from 10 to 11.
+
+1250
+00:05:33,618 --> 00:05:34,038
+[SPEAKER_01]: The <u>classes</u> are held in the morning from 10 to 11.
+
+1251
+00:05:34,038 --> 00:05:34,098
+[SPEAKER_01]: The classes are held in the morning from 10 to 11.
+
+1252
+00:05:34,098 --> 00:05:34,178
+[SPEAKER_01]: The classes <u>are</u> held in the morning from 10 to 11.
+
+1253
+00:05:34,178 --> 00:05:34,218
+[SPEAKER_01]: The classes are held in the morning from 10 to 11.
+
+1254
+00:05:34,218 --> 00:05:34,538
+[SPEAKER_01]: The classes are <u>held</u> in the morning from 10 to 11.
+
+1255
+00:05:34,538 --> 00:05:34,598
+[SPEAKER_01]: The classes are held in the morning from 10 to 11.
+
+1256
+00:05:34,598 --> 00:05:34,658
+[SPEAKER_01]: The classes are held <u>in</u> the morning from 10 to 11.
+
+1257
+00:05:34,658 --> 00:05:34,678
+[SPEAKER_01]: The classes are held in the morning from 10 to 11.
+
+1258
+00:05:34,678 --> 00:05:34,778
+[SPEAKER_01]: The classes are held in <u>the</u> morning from 10 to 11.
+
+1259
+00:05:34,778 --> 00:05:34,818
+[SPEAKER_01]: The classes are held in the morning from 10 to 11.
+
+1260
+00:05:34,818 --> 00:05:35,339
+[SPEAKER_01]: The classes are held in the <u>morning</u> from 10 to 11.
+
+1261
+00:05:35,339 --> 00:05:35,459
+[SPEAKER_01]: The classes are held in the morning from 10 to 11.
+
+1262
+00:05:35,459 --> 00:05:35,699
+[SPEAKER_01]: The classes are held in the morning <u>from</u> 10 to 11.
+
+1263
+00:05:35,699 --> 00:05:35,939
+[SPEAKER_01]: The classes are held in the morning from 10 to 11.
+
+1264
+00:05:35,939 --> 00:05:36,879
+[SPEAKER_01]: The classes are held in the morning from 10 <u>to</u> 11.
+
+1265
+00:05:37,340 --> 00:05:37,960
+[SPEAKER_02]: <u>OK,</u> that's better for me actually.
+
+1266
+00:05:37,960 --> 00:05:37,980
+[SPEAKER_02]: OK, that's better for me actually.
+
+1267
+00:05:37,980 --> 00:05:38,841
+[SPEAKER_02]: OK, <u>that's</u> better for me actually.
+
+1268
+00:05:38,841 --> 00:05:38,961
+[SPEAKER_02]: OK, that's better for me actually.
+
+1269
+00:05:38,961 --> 00:05:39,281
+[SPEAKER_02]: OK, that's <u>better</u> for me actually.
+
+1270
+00:05:39,281 --> 00:05:39,321
+[SPEAKER_02]: OK, that's better for me actually.
+
+1271
+00:05:39,321 --> 00:05:39,441
+[SPEAKER_02]: OK, that's better <u>for</u> me actually.
+
+1272
+00:05:39,441 --> 00:05:39,481
+[SPEAKER_02]: OK, that's better for me actually.
+
+1273
+00:05:39,481 --> 00:05:39,621
+[SPEAKER_02]: OK, that's better for <u>me</u> actually.
+
+1274
+00:05:39,621 --> 00:05:39,721
+[SPEAKER_02]: OK, that's better for me actually.
+
+1275
+00:05:39,721 --> 00:05:40,101
+[SPEAKER_02]: OK, that's better for me <u>actually.</u>
+
+1276
+00:05:40,121 --> 00:05:41,142
+[SPEAKER_02]: <u>And</u> what about the location?
+
+1277
+00:05:41,142 --> 00:05:41,182
+[SPEAKER_02]: And what about the location?
+
+1278
+00:05:41,182 --> 00:05:41,342
+[SPEAKER_02]: And <u>what</u> about the location?
+
+1279
+00:05:41,342 --> 00:05:41,382
+[SPEAKER_02]: And what about the location?
+
+1280
+00:05:41,382 --> 00:05:41,522
+[SPEAKER_02]: And what <u>about</u> the location?
+
+1281
+00:05:41,522 --> 00:05:41,542
+[SPEAKER_02]: And what about the location?
+
+1282
+00:05:41,542 --> 00:05:41,642
+[SPEAKER_02]: And what about <u>the</u> location?
+
+1283
+00:05:41,642 --> 00:05:41,682
+[SPEAKER_02]: And what about the location?
+
+1284
+00:05:41,682 --> 00:05:42,303
+[SPEAKER_02]: And what about the <u>location?</u>
+
+1285
+00:05:42,683 --> 00:05:42,903
+[SPEAKER_02]: <u>Where</u> exactly are the workshops held?
+
+1286
+00:05:42,903 --> 00:05:42,943
+[SPEAKER_02]: Where exactly are the workshops held?
+
+1287
+00:05:42,943 --> 00:05:43,463
+[SPEAKER_02]: Where <u>exactly</u> are the workshops held?
+
+1288
+00:05:43,463 --> 00:05:43,523
+[SPEAKER_02]: Where exactly are the workshops held?
+
+1289
+00:05:43,523 --> 00:05:43,603
+[SPEAKER_02]: Where exactly <u>are</u> the workshops held?
+
+1290
+00:05:43,603 --> 00:05:43,643
+[SPEAKER_02]: Where exactly are the workshops held?
+
+1291
+00:05:43,643 --> 00:05:43,743
+[SPEAKER_02]: Where exactly are <u>the</u> workshops held?
+
+1292
+00:05:43,743 --> 00:05:43,783
+[SPEAKER_02]: Where exactly are the workshops held?
+
+1293
+00:05:43,783 --> 00:05:44,264
+[SPEAKER_02]: Where exactly are the <u>workshops</u> held?
+
+1294
+00:05:44,264 --> 00:05:44,324
+[SPEAKER_02]: Where exactly are the workshops held?
+
+1295
+00:05:44,324 --> 00:05:44,624
+[SPEAKER_02]: Where exactly are the workshops <u>held?</u>
+
+1296
+00:05:45,168 --> 00:05:45,448
+[SPEAKER_01]: <u>They're</u> in building 10A.
+
+1297
+00:05:45,448 --> 00:05:45,488
+[SPEAKER_01]: They're in building 10A.
+
+1298
+00:05:45,488 --> 00:05:45,588
+[SPEAKER_01]: They're <u>in</u> building 10A.
+
+1299
+00:05:45,588 --> 00:05:45,608
+[SPEAKER_01]: They're in building 10A.
+
+1300
+00:05:45,608 --> 00:05:46,028
+[SPEAKER_01]: They're in <u>building</u> 10A.
+
+1301
+00:05:46,028 --> 00:05:46,788
+[SPEAKER_01]: They're in building 10A.
+
+1302
+00:05:46,788 --> 00:05:46,948
+[SPEAKER_01]: They're in building <u>10A.</u>
+
+1303
+00:05:47,609 --> 00:05:47,809
+[SPEAKER_01]: <u>There's</u> a big sign on the door.
+
+1304
+00:05:47,809 --> 00:05:47,849
+[SPEAKER_01]: There's a big sign on the door.
+
+1305
+00:05:47,849 --> 00:05:47,869
+[SPEAKER_01]: There's <u>a</u> big sign on the door.
+
+1306
+00:05:47,869 --> 00:05:47,909
+[SPEAKER_01]: There's a big sign on the door.
+
+1307
+00:05:47,909 --> 00:05:48,069
+[SPEAKER_01]: There's a <u>big</u> sign on the door.
+
+1308
+00:05:48,069 --> 00:05:48,169
+[SPEAKER_01]: There's a big sign on the door.
+
+1309
+00:05:48,169 --> 00:05:48,549
+[SPEAKER_01]: There's a big <u>sign</u> on the door.
+
+1310
+00:05:48,549 --> 00:05:48,609
+[SPEAKER_01]: There's a big sign on the door.
+
+1311
+00:05:48,609 --> 00:05:48,689
+[SPEAKER_01]: There's a big sign <u>on</u> the door.
+
+1312
+00:05:48,689 --> 00:05:48,709
+[SPEAKER_01]: There's a big sign on the door.
+
+1313
+00:05:48,709 --> 00:05:48,789
+[SPEAKER_01]: There's a big sign on <u>the</u> door.
+
+1314
+00:05:48,789 --> 00:05:48,849
+[SPEAKER_01]: There's a big sign on the door.
+
+1315
+00:05:48,849 --> 00:05:49,169
+[SPEAKER_01]: There's a big sign on the <u>door.</u>
+
+1316
+00:05:49,409 --> 00:05:49,509
+[SPEAKER_01]: <u>You</u> can't miss it.
+
+1317
+00:05:49,509 --> 00:05:49,529
+[SPEAKER_01]: You can't miss it.
+
+1318
+00:05:49,529 --> 00:05:49,769
+[SPEAKER_01]: You <u>can't</u> miss it.
+
+1319
+00:05:49,769 --> 00:05:49,829
+[SPEAKER_01]: You can't miss it.
+
+1320
+00:05:49,829 --> 00:05:50,069
+[SPEAKER_01]: You can't <u>miss</u> it.
+
+1321
+00:05:50,069 --> 00:05:50,149
+[SPEAKER_01]: You can't miss it.
+
+1322
+00:05:50,149 --> 00:05:50,249
+[SPEAKER_01]: You can't miss <u>it.</u>
+
+1323
+00:05:50,709 --> 00:05:50,809
+[SPEAKER_01]: <u>And</u> that's in Fradston Industrial Estate.
+
+1324
+00:05:50,809 --> 00:05:50,829
+[SPEAKER_01]: And that's in Fradston Industrial Estate.
+
+1325
+00:05:50,829 --> 00:05:51,050
+[SPEAKER_01]: And <u>that's</u> in Fradston Industrial Estate.
+
+1326
+00:05:51,050 --> 00:05:51,130
+[SPEAKER_01]: And that's in Fradston Industrial Estate.
+
+1327
+00:05:51,130 --> 00:05:51,210
+[SPEAKER_01]: And that's <u>in</u> Fradston Industrial Estate.
+
+1328
+00:05:51,210 --> 00:05:51,290
+[SPEAKER_01]: And that's in Fradston Industrial Estate.
+
+1329
+00:05:51,290 --> 00:05:51,850
+[SPEAKER_01]: And that's in <u>Fradston</u> Industrial Estate.
+
+1330
+00:05:51,850 --> 00:05:51,910
+[SPEAKER_01]: And that's in Fradston Industrial Estate.
+
+1331
+00:05:51,910 --> 00:05:52,470
+[SPEAKER_01]: And that's in Fradston <u>Industrial</u> Estate.
+
+1332
+00:05:52,470 --> 00:05:52,530
+[SPEAKER_01]: And that's in Fradston Industrial Estate.
+
+1333
+00:05:52,530 --> 00:05:52,990
+[SPEAKER_01]: And that's in Fradston Industrial <u>Estate.</u>
+
+1334
+00:05:53,690 --> 00:05:54,070
+[SPEAKER_02]: <u>Sorry?</u>
+
+1335
+00:05:54,690 --> 00:05:55,351
+[SPEAKER_01]: <u>Fradston.</u>
+
+1336
+00:05:56,071 --> 00:05:56,351
+[SPEAKER_01]: <u>That's</u> F-R-A-D-S-T-O-N-E.
+
+1337
+00:05:56,351 --> 00:05:56,371
+[SPEAKER_01]: That's F-R-A-D-S-T-O-N-E.
+
+1338
+00:05:56,371 --> 00:05:57,991
+[SPEAKER_01]: That's <u>F-R-A-D-S-T-O-N-E.</u>
+
+1339
+00:06:05,282 --> 00:06:05,362
+[SPEAKER_02]: <u>And</u> that's in Grasford, isn't it?
+
+1340
+00:06:05,362 --> 00:06:05,602
+[SPEAKER_02]: And that's in Grasford, isn't it?
+
+1341
+00:06:05,602 --> 00:06:05,923
+[SPEAKER_02]: And <u>that's</u> in Grasford, isn't it?
+
+1342
+00:06:05,923 --> 00:06:06,023
+[SPEAKER_02]: And that's in Grasford, isn't it?
+
+1343
+00:06:06,023 --> 00:06:06,123
+[SPEAKER_02]: And that's <u>in</u> Grasford, isn't it?
+
+1344
+00:06:06,123 --> 00:06:06,323
+[SPEAKER_02]: And that's in Grasford, isn't it?
+
+1345
+00:06:06,323 --> 00:06:07,084
+[SPEAKER_02]: And that's in <u>Grasford,</u> isn't it?
+
+1346
+00:06:07,084 --> 00:06:07,144
+[SPEAKER_02]: And that's in Grasford, isn't it?
+
+1347
+00:06:07,144 --> 00:06:07,364
+[SPEAKER_02]: And that's in Grasford, <u>isn't</u> it?
+
+1348
+00:06:07,364 --> 00:06:07,464
+[SPEAKER_02]: And that's in Grasford, isn't it?
+
+1349
+00:06:07,464 --> 00:06:07,524
+[SPEAKER_02]: And that's in Grasford, isn't <u>it?</u>
+
+1350
+00:06:07,804 --> 00:06:08,144
+[SPEAKER_01]: <u>Yes,</u> up past the station.
+
+1351
+00:06:08,144 --> 00:06:08,605
+[SPEAKER_01]: Yes, up past the station.
+
+1352
+00:06:08,605 --> 00:06:08,705
+[SPEAKER_01]: Yes, <u>up</u> past the station.
+
+1353
+00:06:08,705 --> 00:06:08,745
+[SPEAKER_01]: Yes, up past the station.
+
+1354
+00:06:08,745 --> 00:06:09,005
+[SPEAKER_01]: Yes, up <u>past</u> the station.
+
+1355
+00:06:09,005 --> 00:06:09,065
+[SPEAKER_01]: Yes, up past the station.
+
+1356
+00:06:09,065 --> 00:06:09,165
+[SPEAKER_01]: Yes, up past <u>the</u> station.
+
+1357
+00:06:09,165 --> 00:06:09,205
+[SPEAKER_01]: Yes, up past the station.
+
+1358
+00:06:09,205 --> 00:06:09,746
+[SPEAKER_01]: Yes, up past the <u>station.</u>
+
+1359
+00:06:10,166 --> 00:06:10,246
+[SPEAKER_02]: <u>And</u> will I have any parking problems there?
+
+1360
+00:06:10,246 --> 00:06:10,266
+[SPEAKER_02]: And will I have any parking problems there?
+
+1361
+00:06:10,266 --> 00:06:10,466
+[SPEAKER_02]: And <u>will</u> I have any parking problems there?
+
+1362
+00:06:10,466 --> 00:06:10,547
+[SPEAKER_02]: And will I have any parking problems there?
+
+1363
+00:06:10,547 --> 00:06:10,627
+[SPEAKER_02]: And will <u>I</u> have any parking problems there?
+
+1364
+00:06:10,627 --> 00:06:10,667
+[SPEAKER_02]: And will I have any parking problems there?
+
+1365
+00:06:10,667 --> 00:06:10,847
+[SPEAKER_02]: And will I <u>have</u> any parking problems there?
+
+1366
+00:06:10,847 --> 00:06:10,887
+[SPEAKER_02]: And will I have any parking problems there?
+
+1367
+00:06:10,887 --> 00:06:11,047
+[SPEAKER_02]: And will I have <u>any</u> parking problems there?
+
+1368
+00:06:11,047 --> 00:06:11,127
+[SPEAKER_02]: And will I have any parking problems there?
+
+1369
+00:06:11,127 --> 00:06:11,647
+[SPEAKER_02]: And will I have any <u>parking</u> problems there?
+
+1370
+00:06:11,647 --> 00:06:11,768
+[SPEAKER_02]: And will I have any parking problems there?
+
+1371
+00:06:11,768 --> 00:06:12,208
+[SPEAKER_02]: And will I have any parking <u>problems</u> there?
+
+1372
+00:06:12,208 --> 00:06:12,268
+[SPEAKER_02]: And will I have any parking problems there?
+
+1373
+00:06:12,268 --> 00:06:12,508
+[SPEAKER_02]: And will I have any parking problems <u>there?</u>
+
+1374
+00:06:12,889 --> 00:06:13,309
+[SPEAKER_01]: <u>No,</u> there's always plenty available.
+
+1375
+00:06:13,309 --> 00:06:13,409
+[SPEAKER_01]: No, there's always plenty available.
+
+1376
+00:06:13,409 --> 00:06:13,669
+[SPEAKER_01]: No, <u>there's</u> always plenty available.
+
+1377
+00:06:13,669 --> 00:06:13,729
+[SPEAKER_01]: No, there's always plenty available.
+
+1378
+00:06:13,729 --> 00:06:14,070
+[SPEAKER_01]: No, there's <u>always</u> plenty available.
+
+1379
+00:06:14,070 --> 00:06:14,150
+[SPEAKER_01]: No, there's always plenty available.
+
+1380
+00:06:14,150 --> 00:06:14,550
+[SPEAKER_01]: No, there's always <u>plenty</u> available.
+
+1381
+00:06:14,550 --> 00:06:14,610
+[SPEAKER_01]: No, there's always plenty available.
+
+1382
+00:06:14,610 --> 00:06:15,130
+[SPEAKER_01]: No, there's always plenty <u>available.</u>
+
+1383
+00:06:15,831 --> 00:06:16,071
+[SPEAKER_01]: <u>So,</u> would you like to enrol Lydia and Carly now?
+
+1384
+00:06:16,071 --> 00:06:16,412
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1385
+00:06:16,412 --> 00:06:16,572
+[SPEAKER_01]: So, <u>would</u> you like to enrol Lydia and Carly now?
+
+1386
+00:06:16,572 --> 00:06:16,612
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1387
+00:06:16,612 --> 00:06:16,712
+[SPEAKER_01]: So, would <u>you</u> like to enrol Lydia and Carly now?
+
+1388
+00:06:16,712 --> 00:06:16,752
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1389
+00:06:16,752 --> 00:06:16,912
+[SPEAKER_01]: So, would you <u>like</u> to enrol Lydia and Carly now?
+
+1390
+00:06:16,912 --> 00:06:16,932
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1391
+00:06:16,932 --> 00:06:17,012
+[SPEAKER_01]: So, would you like <u>to</u> enrol Lydia and Carly now?
+
+1392
+00:06:17,012 --> 00:06:17,092
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1393
+00:06:17,092 --> 00:06:17,452
+[SPEAKER_01]: So, would you like to <u>enrol</u> Lydia and Carly now?
+
+1394
+00:06:17,452 --> 00:06:17,493
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1395
+00:06:17,493 --> 00:06:17,873
+[SPEAKER_01]: So, would you like to enrol <u>Lydia</u> and Carly now?
+
+1396
+00:06:17,873 --> 00:06:17,933
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1397
+00:06:17,933 --> 00:06:18,033
+[SPEAKER_01]: So, would you like to enrol Lydia <u>and</u> Carly now?
+
+1398
+00:06:18,033 --> 00:06:18,073
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1399
+00:06:18,073 --> 00:06:18,493
+[SPEAKER_01]: So, would you like to enrol Lydia and <u>Carly</u> now?
+
+1400
+00:06:18,493 --> 00:06:18,533
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly now?
+
+1401
+00:06:18,533 --> 00:06:18,814
+[SPEAKER_01]: So, would you like to enrol Lydia and Carly <u>now?</u>
+
+1402
+00:06:18,834 --> 00:06:19,634
+[SPEAKER_02]: <u>OK.</u>
+
+1403
+00:06:20,355 --> 00:06:20,555
+[SPEAKER_01]: <u>So,</u> can I have your full name and… That is the end of Part 1.
+
+1404
+00:06:20,555 --> 00:06:20,655
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1405
+00:06:20,655 --> 00:06:20,795
+[SPEAKER_01]: So, <u>can</u> I have your full name and… That is the end of Part 1.
+
+1406
+00:06:20,795 --> 00:06:20,855
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1407
+00:06:20,855 --> 00:06:20,915
+[SPEAKER_01]: So, can <u>I</u> have your full name and… That is the end of Part 1.
+
+1408
+00:06:20,915 --> 00:06:20,955
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1409
+00:06:20,955 --> 00:06:21,116
+[SPEAKER_01]: So, can I <u>have</u> your full name and… That is the end of Part 1.
+
+1410
+00:06:21,116 --> 00:06:21,156
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1411
+00:06:21,156 --> 00:06:21,296
+[SPEAKER_01]: So, can I have <u>your</u> full name and… That is the end of Part 1.
+
+1412
+00:06:21,296 --> 00:06:21,376
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1413
+00:06:21,376 --> 00:06:21,596
+[SPEAKER_01]: So, can I have your <u>full</u> name and… That is the end of Part 1.
+
+1414
+00:06:21,596 --> 00:06:21,616
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1415
+00:06:21,616 --> 00:06:21,876
+[SPEAKER_01]: So, can I have your full <u>name</u> and… That is the end of Part 1.
+
+1416
+00:06:21,876 --> 00:06:21,896
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1417
+00:06:21,896 --> 00:06:22,056
+[SPEAKER_01]: So, can I have your full name <u>and…</u> That is the end of Part 1.
+
+1418
+00:06:22,056 --> 00:06:26,060
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1419
+00:06:26,060 --> 00:06:26,200
+[SPEAKER_01]: So, can I have your full name and… <u>That</u> is the end of Part 1.
+
+1420
+00:06:26,200 --> 00:06:26,240
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1421
+00:06:26,240 --> 00:06:26,300
+[SPEAKER_01]: So, can I have your full name and… That <u>is</u> the end of Part 1.
+
+1422
+00:06:26,300 --> 00:06:26,340
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1423
+00:06:26,340 --> 00:06:26,420
+[SPEAKER_01]: So, can I have your full name and… That is <u>the</u> end of Part 1.
+
+1424
+00:06:26,420 --> 00:06:26,540
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1425
+00:06:26,540 --> 00:06:26,760
+[SPEAKER_01]: So, can I have your full name and… That is the <u>end</u> of Part 1.
+
+1426
+00:06:26,760 --> 00:06:26,821
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1427
+00:06:26,821 --> 00:06:26,901
+[SPEAKER_01]: So, can I have your full name and… That is the end <u>of</u> Part 1.
+
+1428
+00:06:26,901 --> 00:06:26,981
+[SPEAKER_01]: So, can I have your full name and… That is the end of Part 1.
+
+1429
+00:06:26,981 --> 00:06:27,561
+[SPEAKER_01]: So, can I have your full name and… That is the end of <u>Part</u> 1.

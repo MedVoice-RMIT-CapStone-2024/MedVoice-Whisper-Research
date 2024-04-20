@@ -1,0 +1,158 @@
+WEBVTT
+
+00:01.109 --> 00:01.329
+[SPEAKER_01]: <u>What</u> is this?
+
+00:01.329 --> 00:01.429
+[SPEAKER_01]: What is this?
+
+00:01.429 --> 00:01.550
+[SPEAKER_01]: What <u>is</u> this?
+
+00:01.550 --> 00:01.610
+[SPEAKER_01]: What is this?
+
+00:01.610 --> 00:01.970
+[SPEAKER_01]: What is <u>this?</u>
+
+00:02.631 --> 00:02.791
+[SPEAKER_00]: <u>This</u> is a coffee.
+
+00:02.791 --> 00:02.851
+[SPEAKER_00]: This is a coffee.
+
+00:02.851 --> 00:02.951
+[SPEAKER_00]: This <u>is</u> a coffee.
+
+00:02.951 --> 00:02.991
+[SPEAKER_00]: This is a coffee.
+
+00:02.991 --> 00:03.031
+[SPEAKER_00]: This is <u>a</u> coffee.
+
+00:03.031 --> 00:03.071
+[SPEAKER_00]: This is a coffee.
+
+00:03.071 --> 00:03.491
+[SPEAKER_00]: This is a <u>coffee.</u>
+
+00:05.073 --> 00:05.233
+[SPEAKER_00]: <u>This</u> is a cup.
+
+00:05.233 --> 00:05.293
+[SPEAKER_00]: This is a cup.
+
+00:05.293 --> 00:05.373
+[SPEAKER_00]: This <u>is</u> a cup.
+
+00:05.373 --> 00:05.413
+[SPEAKER_00]: This is a cup.
+
+00:05.413 --> 00:05.453
+[SPEAKER_00]: This is <u>a</u> cup.
+
+00:05.453 --> 00:05.493
+[SPEAKER_00]: This is a cup.
+
+00:05.493 --> 00:05.754
+[SPEAKER_00]: This is a <u>cup.</u>
+
+00:06.815 --> 00:06.995
+[SPEAKER_00]: <u>This</u> is a chair.
+
+00:06.995 --> 00:07.075
+[SPEAKER_00]: This is a chair.
+
+00:07.075 --> 00:07.175
+[SPEAKER_00]: This <u>is</u> a chair.
+
+00:07.175 --> 00:07.215
+[SPEAKER_00]: This is a chair.
+
+00:07.215 --> 00:07.255
+[SPEAKER_00]: This is <u>a</u> chair.
+
+00:07.255 --> 00:07.315
+[SPEAKER_00]: This is a chair.
+
+00:07.315 --> 00:07.656
+[SPEAKER_00]: This is a <u>chair.</u>
+
+00:08.937 --> 00:09.097
+[SPEAKER_01]: <u>What</u> are these?
+
+00:09.097 --> 00:09.157
+[SPEAKER_01]: What are these?
+
+00:09.157 --> 00:09.277
+[SPEAKER_01]: What <u>are</u> these?
+
+00:09.277 --> 00:09.337
+[SPEAKER_01]: What are these?
+
+00:09.337 --> 00:09.698
+[SPEAKER_01]: What are <u>these?</u>
+
+00:09.718 --> 00:11.680
+[SPEAKER_00]: <u>These</u> are three spoons.
+
+00:11.680 --> 00:11.740
+[SPEAKER_00]: These are three spoons.
+
+00:11.740 --> 00:11.840
+[SPEAKER_00]: These <u>are</u> three spoons.
+
+00:11.840 --> 00:11.880
+[SPEAKER_00]: These are three spoons.
+
+00:11.880 --> 00:12.080
+[SPEAKER_00]: These are <u>three</u> spoons.
+
+00:12.080 --> 00:12.100
+[SPEAKER_00]: These are three spoons.
+
+00:12.100 --> 00:12.541
+[SPEAKER_00]: These are three <u>spoons.</u>
+
+00:13.441 --> 00:13.602
+[SPEAKER_00]: <u>These</u> are four glasses.
+
+00:13.602 --> 00:13.642
+[SPEAKER_00]: These are four glasses.
+
+00:13.642 --> 00:13.742
+[SPEAKER_00]: These <u>are</u> four glasses.
+
+00:13.742 --> 00:13.802
+[SPEAKER_00]: These are four glasses.
+
+00:13.802 --> 00:14.022
+[SPEAKER_00]: These are <u>four</u> glasses.
+
+00:14.022 --> 00:14.062
+[SPEAKER_00]: These are four glasses.
+
+00:14.062 --> 00:14.603
+[SPEAKER_00]: These are four <u>glasses.</u>
+
+00:15.584 --> 00:15.864
+[SPEAKER_00]: <u>These</u> are two tables.
+
+00:15.864 --> 00:15.924
+[SPEAKER_00]: These are two tables.
+
+00:15.924 --> 00:16.064
+[SPEAKER_00]: These <u>are</u> two tables.
+
+00:16.064 --> 00:16.124
+[SPEAKER_00]: These are two tables.
+
+00:16.124 --> 00:16.284
+[SPEAKER_00]: These are <u>two</u> tables.
+
+00:16.284 --> 00:16.324
+[SPEAKER_00]: These are two tables.
+
+00:16.324 --> 00:16.685
+[SPEAKER_00]: These are two <u>tables.</u>
+
