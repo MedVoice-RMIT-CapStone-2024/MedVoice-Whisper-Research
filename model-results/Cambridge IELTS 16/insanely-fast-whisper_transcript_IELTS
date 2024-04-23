@@ -1,0 +1,1213 @@
+{
+    "speakers": [
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                0.0,
+                8.64
+            ],
+            "text": " IELTS 16, published by Cambridge University Press and Cambridge Assessment English 2021."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                8.64,
+                11.72
+            ],
+            "text": " This recording is copyright."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                11.72,
+                19.2
+            ],
+            "text": " Test 1. This is the IELTS listening test. You will hear a number of different recordings"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                19.2,
+                26.0
+            ],
+            "text": " and you will have to answer questions on what you hear. There will be time for you to read the instructions and"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                26.0,
+                32.32
+            ],
+            "text": " questions and you will have a chance to check your work. All the recordings will be played"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                32.32,
+                40.84
+            ],
+            "text": " once only. The test is in four parts. At the end of the test you will be given 10 minutes"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                40.84,
+                49.0
+            ],
+            "text": " to transfer your answers to the answer sheet. Now turn to part 1."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                49.0,
+                57.0
+            ],
+            "text": " Part 1. You will hear a man phoning to find out about"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                57.0,
+                87.0
+            ],
+            "text": " some children's engineering workshops. First, you have some time to look at questions 1 to 3."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                87.0,
+                90.0
+            ],
+            "text": " Hello Children's Engineering Workshops."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                90.0,
+                96.0
+            ],
+            "text": " Oh hello. I wanted some information about the workshops in the school holidays."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                96.0,
+                97.0
+            ],
+            "text": " Sure."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                97.0,
+                103.0
+            ],
+            "text": " I have two daughters who are interested. The younger one's Lydia, she's four. Do you take"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                103.0,
+                110.68
+            ],
+            "text": " children as young as that? Yes, our tiny engineers' workshop is for four to five-year-olds."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                110.68,
+                113.08
+            ],
+            "text": " What sorts of activities do they do?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                113.08,
+                114.44
+            ],
+            "text": " All sorts."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                114.44,
+                120.36
+            ],
+            "text": " For example, they work together to design a special cover that goes round an egg, so"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                120.36,
+                125.44
+            ],
+            "text": " that when it's inside they can drop it from a height and it doesn't break."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                125.44,
+                129.4
+            ],
+            "text": " Well, sometimes it does break but that's part of the fun."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                129.4,
+                133.4
+            ],
+            "text": " Right. And Lydia loves building things."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                133.4,
+                136.6
+            ],
+            "text": " Is there any opportunity for her to do that?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                136.6,
+                141.56
+            ],
+            "text": " Well, they have a competition to see who can make the highest tower."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                141.56,
+                144.4
+            ],
+            "text": " You'd be amazed how high they can go."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                144.4,
+                145.34
+            ],
+            "text": " Right. But they're learning all the time as well as having fun. highest tower. You'd be amazed how high they can go! Right!"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                145.34,
+                151.22
+            ],
+            "text": " But they're learning all the time as well as having fun. For example, one thing they"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                151.22,
+                158.02
+            ],
+            "text": " do is to design and build a car that's attached to a balloon and the force of the air in that"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                158.02,
+                163.82
+            ],
+            "text": " actually powers the car and makes it move along. They go really fast too!"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                163.82,
+                167.68
+            ],
+            "text": " OK, well, all this sounds perfect."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                170.68,
+                211.0
+            ],
+            "text": " Before you hear the rest of the conversation, you have some time to look at questions 4 to 10."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                211.0,
+                221.8
+            ],
+            "text": " Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                221.8,
+                223.4
+            ],
+            "text": " be in a different group."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                223.4,
+                226.8
+            ],
+            "text": " Yes, she'd be in the junior engineers."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                226.8,
+                229.84
+            ],
+            "text": " That's for children from 6 to 8."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                229.84,
+                232.72
+            ],
+            "text": " And do they do the same sorts of activities?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                232.72,
+                236.32
+            ],
+            "text": " Some are the same, but a bit more advanced."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                236.32,
+                240.0
+            ],
+            "text": " So they work out how to build model vehicles,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                240.0,
+                242.32
+            ],
+            "text": " things like cars and trucks,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                242.32,
+                246.4
+            ],
+            "text": " but also how to construct animals using the same"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                246.4,
+                248.56
+            ],
+            "text": " sorts of material and technique."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                249.28,
+                251.2
+            ],
+            "text": " And then they learn how they can"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                251.2,
+                253.28
+            ],
+            "text": " programme them and make them move."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                253.28,
+                255.36
+            ],
+            "text": " So they learn a bit of coding?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                255.36,
+                258.16
+            ],
+            "text": " They do. They pick it up really quickly."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                258.88,
+                261.12
+            ],
+            "text": " We're there to help if they need it,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                261.12,
+                263.36
+            ],
+            "text": " but they learn from one another too."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                263.36,
+                267.32
+            ],
+            "text": " Right. And do they have competitions too?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                267.32,
+                274.48
+            ],
+            "text": " Yes, with the junior engineers it's to use recycled materials like card and wood to build"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                274.48,
+                278.32
+            ],
+            "text": " a bridge. And the longest one gets a prize."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                278.32,
+                281.92
+            ],
+            "text": " That sounds fun. I wouldn't mind doing that myself."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                281.92,
+                287.56
+            ],
+            "text": " Then they have something a bit different, which is to think up an idea for a five-minute"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                287.56,
+                294.76
+            ],
+            "text": " movie and then film it, using special animation software. You'd be amazed what they come"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                294.76,
+                295.76
+            ],
+            "text": " up with!"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                295.76,
+                300.32
+            ],
+            "text": " And of course that's something they can put on their phone and take home to show all their"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                300.32,
+                301.32
+            ],
+            "text": " friends."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                301.32,
+                306.0
+            ],
+            "text": " Exactly. And then they also build a robot in the shape of a"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                306.0,
+                309.0
+            ],
+            "text": " human. And they decorate it and"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                309.0,
+                311.0
+            ],
+            "text": " program it so that it can move"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                311.0,
+                312.0
+            ],
+            "text": " its arms and legs."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                312.0,
+                315.0
+            ],
+            "text": " Rob Perfect. So is it the same"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                315.0,
+                317.0
+            ],
+            "text": " price as the tiny engineers?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                317.0,
+                320.0
+            ],
+            "text": " Sam It's just a bit more \u2013 \u00a350"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                320.0,
+                321.0
+            ],
+            "text": " for the five weeks."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                321.0,
+                323.0
+            ],
+            "text": " Rob And are the classes on a"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                323.0,
+                324.0
+            ],
+            "text": " Monday too?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                324.0,
+                328.92
+            ],
+            "text": " Sam There used to be, but we felt it didn't give our staff enough time to clear up after the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                328.92,
+                336.16
+            ],
+            "text": " first workshop, so we moved them to Wednesdays. The classes are held in the morning from ten"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                336.16,
+                337.16
+            ],
+            "text": " to eleven."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                337.16,
+                343.68
+            ],
+            "text": " OK, that's better for me actually. And what about the location? Where exactly are the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                343.68,
+                351.0
+            ],
+            "text": " workshops held? They're in building 10A. There's a big sign on the door, you can't miss it, and that's"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                351.0,
+                353.36
+            ],
+            "text": " in Fradston Industrial Estate."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                353.36,
+                354.36
+            ],
+            "text": " Sorry?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                354.36,
+                367.6
+            ],
+            "text": " Fradston. That's F-R-A-D-S-T-O-N-E. And that's in Grasford, isn't it?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                367.6,
+                369.92
+            ],
+            "text": " Yes, up past the station."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                369.92,
+                372.64
+            ],
+            "text": " And will I have any parking problems there?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                372.64,
+                375.44
+            ],
+            "text": " No, there's always plenty available."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                375.44,
+                378.96
+            ],
+            "text": " So, would you like to enrol Lydia and Carly now?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                378.96,
+                379.96
+            ],
+            "text": " OK."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                379.96,
+                385.64
+            ],
+            "text": " So, can I have your full name and..."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                405.0,
+                410.0
+            ],
+            "text": " That is the end of part one. You now have half a minute to check your answers to part one..."
+        }
+    ],
+    "chunks": [
+        {
+            "timestamp": [
+                0.0,
+                8.64
+            ],
+            "text": " IELTS 16, published by Cambridge University Press and Cambridge Assessment English 2021."
+        },
+        {
+            "timestamp": [
+                8.64,
+                11.72
+            ],
+            "text": " This recording is copyright."
+        },
+        {
+            "timestamp": [
+                11.72,
+                19.2
+            ],
+            "text": " Test 1. This is the IELTS listening test. You will hear a number of different recordings"
+        },
+        {
+            "timestamp": [
+                19.2,
+                26.0
+            ],
+            "text": " and you will have to answer questions on what you hear. There will be time for you to read the instructions and"
+        },
+        {
+            "timestamp": [
+                26.0,
+                32.32
+            ],
+            "text": " questions and you will have a chance to check your work. All the recordings will be played"
+        },
+        {
+            "timestamp": [
+                32.32,
+                40.84
+            ],
+            "text": " once only. The test is in four parts. At the end of the test you will be given 10 minutes"
+        },
+        {
+            "timestamp": [
+                40.84,
+                49.0
+            ],
+            "text": " to transfer your answers to the answer sheet. Now turn to part 1."
+        },
+        {
+            "timestamp": [
+                49.0,
+                57.0
+            ],
+            "text": " Part 1. You will hear a man phoning to find out about"
+        },
+        {
+            "timestamp": [
+                57.0,
+                87.0
+            ],
+            "text": " some children's engineering workshops. First, you have some time to look at questions 1 to 3."
+        },
+        {
+            "timestamp": [
+                87.0,
+                90.0
+            ],
+            "text": " Hello Children's Engineering Workshops."
+        },
+        {
+            "timestamp": [
+                90.0,
+                96.0
+            ],
+            "text": " Oh hello. I wanted some information about the workshops in the school holidays."
+        },
+        {
+            "timestamp": [
+                96.0,
+                97.0
+            ],
+            "text": " Sure."
+        },
+        {
+            "timestamp": [
+                97.0,
+                103.0
+            ],
+            "text": " I have two daughters who are interested. The younger one's Lydia, she's four. Do you take"
+        },
+        {
+            "timestamp": [
+                103.0,
+                110.68
+            ],
+            "text": " children as young as that? Yes, our tiny engineers' workshop is for four to five-year-olds."
+        },
+        {
+            "timestamp": [
+                110.68,
+                113.08
+            ],
+            "text": " What sorts of activities do they do?"
+        },
+        {
+            "timestamp": [
+                113.08,
+                114.44
+            ],
+            "text": " All sorts."
+        },
+        {
+            "timestamp": [
+                114.44,
+                120.36
+            ],
+            "text": " For example, they work together to design a special cover that goes round an egg, so"
+        },
+        {
+            "timestamp": [
+                120.36,
+                125.44
+            ],
+            "text": " that when it's inside they can drop it from a height and it doesn't break."
+        },
+        {
+            "timestamp": [
+                125.44,
+                129.4
+            ],
+            "text": " Well, sometimes it does break but that's part of the fun."
+        },
+        {
+            "timestamp": [
+                129.4,
+                133.4
+            ],
+            "text": " Right. And Lydia loves building things."
+        },
+        {
+            "timestamp": [
+                133.4,
+                136.6
+            ],
+            "text": " Is there any opportunity for her to do that?"
+        },
+        {
+            "timestamp": [
+                136.6,
+                141.56
+            ],
+            "text": " Well, they have a competition to see who can make the highest tower."
+        },
+        {
+            "timestamp": [
+                141.56,
+                144.4
+            ],
+            "text": " You'd be amazed how high they can go."
+        },
+        {
+            "timestamp": [
+                144.4,
+                145.34
+            ],
+            "text": " Right. But they're learning all the time as well as having fun. highest tower. You'd be amazed how high they can go! Right!"
+        },
+        {
+            "timestamp": [
+                145.34,
+                151.22
+            ],
+            "text": " But they're learning all the time as well as having fun. For example, one thing they"
+        },
+        {
+            "timestamp": [
+                151.22,
+                158.02
+            ],
+            "text": " do is to design and build a car that's attached to a balloon and the force of the air in that"
+        },
+        {
+            "timestamp": [
+                158.02,
+                163.82
+            ],
+            "text": " actually powers the car and makes it move along. They go really fast too!"
+        },
+        {
+            "timestamp": [
+                163.82,
+                167.68
+            ],
+            "text": " OK, well, all this sounds perfect."
+        },
+        {
+            "timestamp": [
+                170.68,
+                211.0
+            ],
+            "text": " Before you hear the rest of the conversation, you have some time to look at questions 4 to 10."
+        },
+        {
+            "timestamp": [
+                211.0,
+                221.8
+            ],
+            "text": " Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd"
+        },
+        {
+            "timestamp": [
+                221.8,
+                223.4
+            ],
+            "text": " be in a different group."
+        },
+        {
+            "timestamp": [
+                223.4,
+                226.8
+            ],
+            "text": " Yes, she'd be in the junior engineers."
+        },
+        {
+            "timestamp": [
+                226.8,
+                229.84
+            ],
+            "text": " That's for children from 6 to 8."
+        },
+        {
+            "timestamp": [
+                229.84,
+                232.72
+            ],
+            "text": " And do they do the same sorts of activities?"
+        },
+        {
+            "timestamp": [
+                232.72,
+                236.32
+            ],
+            "text": " Some are the same, but a bit more advanced."
+        },
+        {
+            "timestamp": [
+                236.32,
+                240.0
+            ],
+            "text": " So they work out how to build model vehicles,"
+        },
+        {
+            "timestamp": [
+                240.0,
+                242.32
+            ],
+            "text": " things like cars and trucks,"
+        },
+        {
+            "timestamp": [
+                242.32,
+                246.4
+            ],
+            "text": " but also how to construct animals using the same"
+        },
+        {
+            "timestamp": [
+                246.4,
+                248.56
+            ],
+            "text": " sorts of material and technique."
+        },
+        {
+            "timestamp": [
+                249.28,
+                251.2
+            ],
+            "text": " And then they learn how they can"
+        },
+        {
+            "timestamp": [
+                251.2,
+                253.28
+            ],
+            "text": " programme them and make them move."
+        },
+        {
+            "timestamp": [
+                253.28,
+                255.36
+            ],
+            "text": " So they learn a bit of coding?"
+        },
+        {
+            "timestamp": [
+                255.36,
+                258.16
+            ],
+            "text": " They do. They pick it up really quickly."
+        },
+        {
+            "timestamp": [
+                258.88,
+                261.12
+            ],
+            "text": " We're there to help if they need it,"
+        },
+        {
+            "timestamp": [
+                261.12,
+                263.36
+            ],
+            "text": " but they learn from one another too."
+        },
+        {
+            "timestamp": [
+                263.36,
+                267.32
+            ],
+            "text": " Right. And do they have competitions too?"
+        },
+        {
+            "timestamp": [
+                267.32,
+                274.48
+            ],
+            "text": " Yes, with the junior engineers it's to use recycled materials like card and wood to build"
+        },
+        {
+            "timestamp": [
+                274.48,
+                278.32
+            ],
+            "text": " a bridge. And the longest one gets a prize."
+        },
+        {
+            "timestamp": [
+                278.32,
+                281.92
+            ],
+            "text": " That sounds fun. I wouldn't mind doing that myself."
+        },
+        {
+            "timestamp": [
+                281.92,
+                287.56
+            ],
+            "text": " Then they have something a bit different, which is to think up an idea for a five-minute"
+        },
+        {
+            "timestamp": [
+                287.56,
+                294.76
+            ],
+            "text": " movie and then film it, using special animation software. You'd be amazed what they come"
+        },
+        {
+            "timestamp": [
+                294.76,
+                295.76
+            ],
+            "text": " up with!"
+        },
+        {
+            "timestamp": [
+                295.76,
+                300.32
+            ],
+            "text": " And of course that's something they can put on their phone and take home to show all their"
+        },
+        {
+            "timestamp": [
+                300.32,
+                301.32
+            ],
+            "text": " friends."
+        },
+        {
+            "timestamp": [
+                301.32,
+                306.0
+            ],
+            "text": " Exactly. And then they also build a robot in the shape of a"
+        },
+        {
+            "timestamp": [
+                306.0,
+                309.0
+            ],
+            "text": " human. And they decorate it and"
+        },
+        {
+            "timestamp": [
+                309.0,
+                311.0
+            ],
+            "text": " program it so that it can move"
+        },
+        {
+            "timestamp": [
+                311.0,
+                312.0
+            ],
+            "text": " its arms and legs."
+        },
+        {
+            "timestamp": [
+                312.0,
+                315.0
+            ],
+            "text": " Rob Perfect. So is it the same"
+        },
+        {
+            "timestamp": [
+                315.0,
+                317.0
+            ],
+            "text": " price as the tiny engineers?"
+        },
+        {
+            "timestamp": [
+                317.0,
+                320.0
+            ],
+            "text": " Sam It's just a bit more \u2013 \u00a350"
+        },
+        {
+            "timestamp": [
+                320.0,
+                321.0
+            ],
+            "text": " for the five weeks."
+        },
+        {
+            "timestamp": [
+                321.0,
+                323.0
+            ],
+            "text": " Rob And are the classes on a"
+        },
+        {
+            "timestamp": [
+                323.0,
+                324.0
+            ],
+            "text": " Monday too?"
+        },
+        {
+            "timestamp": [
+                324.0,
+                328.92
+            ],
+            "text": " Sam There used to be, but we felt it didn't give our staff enough time to clear up after the"
+        },
+        {
+            "timestamp": [
+                328.92,
+                336.16
+            ],
+            "text": " first workshop, so we moved them to Wednesdays. The classes are held in the morning from ten"
+        },
+        {
+            "timestamp": [
+                336.16,
+                337.16
+            ],
+            "text": " to eleven."
+        },
+        {
+            "timestamp": [
+                337.16,
+                343.68
+            ],
+            "text": " OK, that's better for me actually. And what about the location? Where exactly are the"
+        },
+        {
+            "timestamp": [
+                343.68,
+                351.0
+            ],
+            "text": " workshops held? They're in building 10A. There's a big sign on the door, you can't miss it, and that's"
+        },
+        {
+            "timestamp": [
+                351.0,
+                353.36
+            ],
+            "text": " in Fradston Industrial Estate."
+        },
+        {
+            "timestamp": [
+                353.36,
+                354.36
+            ],
+            "text": " Sorry?"
+        },
+        {
+            "timestamp": [
+                354.36,
+                367.6
+            ],
+            "text": " Fradston. That's F-R-A-D-S-T-O-N-E. And that's in Grasford, isn't it?"
+        },
+        {
+            "timestamp": [
+                367.6,
+                369.92
+            ],
+            "text": " Yes, up past the station."
+        },
+        {
+            "timestamp": [
+                369.92,
+                372.64
+            ],
+            "text": " And will I have any parking problems there?"
+        },
+        {
+            "timestamp": [
+                372.64,
+                375.44
+            ],
+            "text": " No, there's always plenty available."
+        },
+        {
+            "timestamp": [
+                375.44,
+                378.96
+            ],
+            "text": " So, would you like to enrol Lydia and Carly now?"
+        },
+        {
+            "timestamp": [
+                378.96,
+                379.96
+            ],
+            "text": " OK."
+        },
+        {
+            "timestamp": [
+                379.96,
+                385.64
+            ],
+            "text": " So, can I have your full name and..."
+        },
+        {
+            "timestamp": [
+                405.0,
+                410.0
+            ],
+            "text": " That is the end of part one. You now have half a minute to check your answers to part one..."
+        },
+        {
+            "timestamp": [
+                410.0,
+                415.0
+            ],
+            "text": "."
+        },
+        {
+            "timestamp": [
+                415.0,
+                420.0
+            ],
+            "text": "."
+        },
+        {
+            "timestamp": [
+                420.0,
+                422.32
+            ],
+            "text": "."
+        }
+    ],
+    "text": " IELTS 16, published by Cambridge University Press and Cambridge Assessment English 2021. This recording is copyright. Test 1. This is the IELTS listening test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test you will be given 10 minutes to transfer your answers to the answer sheet. Now turn to part 1. Part 1. You will hear a man phoning to find out about some children's engineering workshops. First, you have some time to look at questions 1 to 3. Hello Children's Engineering Workshops. Oh hello. I wanted some information about the workshops in the school holidays. Sure. I have two daughters who are interested. The younger one's Lydia, she's four. Do you take children as young as that? Yes, our tiny engineers' workshop is for four to five-year-olds. What sorts of activities do they do? All sorts. For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break. Well, sometimes it does break but that's part of the fun. Right. And Lydia loves building things. Is there any opportunity for her to do that? Well, they have a competition to see who can make the highest tower. You'd be amazed how high they can go. Right. But they're learning all the time as well as having fun. highest tower. You'd be amazed how high they can go! Right! But they're learning all the time as well as having fun. For example, one thing they do is to design and build a car that's attached to a balloon and the force of the air in that actually powers the car and makes it move along. They go really fast too! OK, well, all this sounds perfect. Before you hear the rest of the conversation, you have some time to look at questions 4 to 10. Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group. Yes, she'd be in the junior engineers. That's for children from 6 to 8. And do they do the same sorts of activities? Some are the same, but a bit more advanced. So they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique. And then they learn how they can programme them and make them move. So they learn a bit of coding? They do. They pick it up really quickly. We're there to help if they need it, but they learn from one another too. Right. And do they have competitions too? Yes, with the junior engineers it's to use recycled materials like card and wood to build a bridge. And the longest one gets a prize. That sounds fun. I wouldn't mind doing that myself. Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it, using special animation software. You'd be amazed what they come up with! And of course that's something they can put on their phone and take home to show all their friends. Exactly. And then they also build a robot in the shape of a human. And they decorate it and program it so that it can move its arms and legs. Rob Perfect. So is it the same price as the tiny engineers? Sam It's just a bit more \u2013 \u00a350 for the five weeks. Rob And are the classes on a Monday too? Sam There used to be, but we felt it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays. The classes are held in the morning from ten to eleven. OK, that's better for me actually. And what about the location? Where exactly are the workshops held? They're in building 10A. There's a big sign on the door, you can't miss it, and that's in Fradston Industrial Estate. Sorry? Fradston. That's F-R-A-D-S-T-O-N-E. And that's in Grasford, isn't it? Yes, up past the station. And will I have any parking problems there? No, there's always plenty available. So, would you like to enrol Lydia and Carly now? OK. So, can I have your full name and... That is the end of part one. You now have half a minute to check your answers to part one......"
+}
